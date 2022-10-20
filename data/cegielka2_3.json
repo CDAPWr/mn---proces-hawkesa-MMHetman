@@ -1,0 +1,3477 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "UQnCHL0yhYde1Ble7pd2Z1CE2I0",
+  "nextPageToken": "QURTSl9pMFI4alZPY3NMMlhlRlM3Zk1raGZsZ1JiZWs5YXBkLXFBX0dTWDlycktWcUNqNnI2bktubENaM2xtaDVSY1YySEhDRl9waHFzUQ==",
+  "pageInfo": {
+    "totalResults": 100,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SOeBbI2EIKQUHUpBUFENPKhWOFU",
+      "id": "UgxaU0OhnpCCYGd0Cml4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "n0fJo9Pl6tQsEGaXSv4F5V5-aHo",
+          "id": "UgxaU0OhnpCCYGd0Cml4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "jak to\u003cbr\u003eakurat oglądałem to w tym tygodniu XD",
+            "textOriginal": "jak to\nakurat oglądałem to w tym tygodniu XD",
+            "authorDisplayName": "Eren Yeager🐦",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ujMVH0FnwPwAAx40CfYzTvjgJQfrF4lr6cKuTB9-WUJOOWXSI9hD4OsbZltkc22bF-H8uyvw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UClLx7HzlJ6ot228OK42Zurg",
+            "authorChannelId": {
+              "value": "UClLx7HzlJ6ot228OK42Zurg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:54:54Z",
+            "updatedAt": "2022-09-24T19:54:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Q3CMpjygGhOdVcMEgf_w_z7wIZ8",
+      "id": "UgwJb1wKmDwh_oYpMFN4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0MT2LEFPzJuW4kkjTUkFj-1HLYQ",
+          "id": "UgwJb1wKmDwh_oYpMFN4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Chciałbym zobaczyć skrót &quot;sieroty&quot;",
+            "textOriginal": "Chciałbym zobaczyć skrót \"sieroty\"",
+            "authorDisplayName": "Bartek Banasik",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9d1Mx6IHh40gSdOz_FCLGs5C0pB-Al-jFOAXrFBo0YblVklxzgkRQMBd3vUUnC=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuu9mOVLrIwWJWfl9_b-pZA",
+            "authorChannelId": {
+              "value": "UCuu9mOVLrIwWJWfl9_b-pZA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:54:27Z",
+            "updatedAt": "2022-09-24T19:54:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pCfVatYFaUqB1UrLE7dQhe_v9ew",
+      "id": "UgylStk3S3Mtci47laB4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8bKDGKMKXEzWSxtGAnniXdMy0mg",
+          "id": "UgylStk3S3Mtci47laB4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "A ja dalej czekam na Kiler clown 1978 r",
+            "textOriginal": "A ja dalej czekam na Kiler clown 1978 r",
+            "authorDisplayName": "Marcin Winiarski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9DXo8DL5f252l9hFFqJPbantHCV-gIvoxo7Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbnXT1zP6_LZ7RrPn0-DXqw",
+            "authorChannelId": {
+              "value": "UCbnXT1zP6_LZ7RrPn0-DXqw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:50:09Z",
+            "updatedAt": "2022-09-24T19:50:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "xNfzFFzE7JDrnQlNZ5gAMm1Sqb0",
+      "id": "Ugy5VPqVnkAGYxvaYix4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "a-Iy8fQpOkufe6-FXpm3oNp-R4A",
+          "id": "Ugy5VPqVnkAGYxvaYix4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=90LN0_TV8Vk&amp;t=1m38s\"\u003e1:38\u003c/a\u003e najpiękniejszy moment w odcinku",
+            "textOriginal": "1:38 najpiękniejszy moment w odcinku",
+            "authorDisplayName": "Pogrom707",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/-1R5Z_kE4e9t1pY-i6a5yXF6zadOynbzXdAp81JbBY5s-QUHDx5Kio_LqKdYTu0FdLWSxmE9=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCO9liRzLN54rZ-U1C6RwcAw",
+            "authorChannelId": {
+              "value": "UCO9liRzLN54rZ-U1C6RwcAw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2022-09-24T19:48:17Z",
+            "updatedAt": "2022-09-24T19:48:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "LWNyAuNb2iD_OQde_KFF7KVMI_c",
+      "id": "UgzwNcW0lTw541Dlnvp4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7DVTd5HkBSa7MQzNmp9kxs6xDKM",
+          "id": "UgzwNcW0lTw541Dlnvp4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Godzilla 2 król potworów",
+            "textOriginal": "Godzilla 2 król potworów",
+            "authorDisplayName": "Vernon roche ( za Temerie)",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Vy5tn0O4JWvlHl7Le9NOzGPlYhzLGeo-FDhfc4f-qtRAI3uZ_kr8onRi0MVsIgXqaZHPHgv7=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtul9MpwMDxZnGtyJCaf-zg",
+            "authorChannelId": {
+              "value": "UCtul9MpwMDxZnGtyJCaf-zg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:44:45Z",
+            "updatedAt": "2022-09-24T19:44:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "easKvO2TjR5FB1T9MXtFEEbP5UQ",
+      "id": "UgzQu7meri_07Af432Z4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "RA8PjxUE2k7byYBzSqy0ExnAsek",
+          "id": "UgzQu7meri_07Af432Z4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=90LN0_TV8Vk&amp;t=7m37s\"\u003e7:37\u003c/a\u003e ZŁOTO",
+            "textOriginal": "7:37 ZŁOTO",
+            "authorDisplayName": "ktoś żyjący",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/OWPOLE5OM9u4BBj8DZ23iLKUVHZdUYO9ROcWVp_if4ii759yUJQcoD8Tj0tbF3uF6GGWk6j0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBNEy6PLm3qrnlJL2XV8blw",
+            "authorChannelId": {
+              "value": "UCBNEy6PLm3qrnlJL2XV8blw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:43:56Z",
+            "updatedAt": "2022-09-24T19:44:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Jcop81kkgAIKH5LDJG9IOjthlCE",
+      "id": "UgxS3LkVTkSi_mWcM8N4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "aRHboFRa8ta7YEYms1vve15o1EY",
+          "id": "UgxS3LkVTkSi_mWcM8N4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Jeden z lepszych skrótów, wszystkie nowe pomysły fajne, tylko dźwięk tego licznika rozprasza. Jak zawsze musze dodać tylko jedno. KIEDY POWRÓ KRÓLA ?",
+            "textOriginal": "Jeden z lepszych skrótów, wszystkie nowe pomysły fajne, tylko dźwięk tego licznika rozprasza. Jak zawsze musze dodać tylko jedno. KIEDY POWRÓ KRÓLA ?",
+            "authorDisplayName": "ktoś żyjący",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/OWPOLE5OM9u4BBj8DZ23iLKUVHZdUYO9ROcWVp_if4ii759yUJQcoD8Tj0tbF3uF6GGWk6j0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBNEy6PLm3qrnlJL2XV8blw",
+            "authorChannelId": {
+              "value": "UCBNEy6PLm3qrnlJL2XV8blw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2022-09-24T19:40:43Z",
+            "updatedAt": "2022-09-24T19:53:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "dVZP10tUVwNsscQYHgerIXHH7S0",
+      "id": "Ugz_x5CR2mQc6xhiN6V4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1wdig6FyMLwzoZ1vzzKOYHhr4f8",
+          "id": "Ugz_x5CR2mQc6xhiN6V4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "nice",
+            "textOriginal": "nice",
+            "authorDisplayName": "Rose Black",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu93uENBxNTq2d0hwpq8rfHNcnE42a3x3WPD0gnZ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXDHvWalmP-qexEIFVtsKAQ",
+            "authorChannelId": {
+              "value": "UCXDHvWalmP-qexEIFVtsKAQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:38:50Z",
+            "updatedAt": "2022-09-24T19:38:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BnN5Y8lvcTjfJKb0jTbSZ5LAUzQ",
+      "id": "Ugw_N0xy1EQ6CHxILaR4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HpXGfJKczlxCvQmYVOLMOvLAUP8",
+          "id": "Ugw_N0xy1EQ6CHxILaR4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "No to kolejny musi być: &#39; Poznaj moich Spartan&#39;.",
+            "textOriginal": "No to kolejny musi być: ' Poznaj moich Spartan'.",
+            "authorDisplayName": "Jim Crow",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_pngA-qr91Bl_4DedmJfrG--huvV7DpDDYzSsTUg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaqqdTSLhTn5adkGybFzFUw",
+            "authorChannelId": {
+              "value": "UCaqqdTSLhTn5adkGybFzFUw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T19:37:55Z",
+            "updatedAt": "2022-09-24T19:37:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "z9y-OElHYVShguzTCCoQKPBi5wE",
+      "id": "UgyVRWV7KNItEdPT4tF4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "o1o0AqSKdoA6CiK_HhAQVjAjVoI",
+          "id": "UgyVRWV7KNItEdPT4tF4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "XD",
+            "textOriginal": "XD",
+            "authorDisplayName": "Kalyma Isildura",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9_JFy_vGGgw44BZyIOfhaEVsYgGNKwSwQlEQpc4g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMNYi80Rls7RH14kJ5m7DAw",
+            "authorChannelId": {
+              "value": "UCMNYi80Rls7RH14kJ5m7DAw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:37:31Z",
+            "updatedAt": "2022-09-24T19:37:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WrkZuOwPFo6zNW5fI4wsVKIOxxA",
+      "id": "UgzX-Q3CaecKGObxdpB4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2lGD4FkB_tAI4FPz3Yx_TNhjdIg",
+          "id": "UgzX-Q3CaecKGObxdpB4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "A może teraz seria kings man",
+            "textOriginal": "A może teraz seria kings man",
+            "authorDisplayName": "JYS",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-LVBSPXf46trXpyMEBzo4z-4rdUcjFz1rssBC4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjpjhMaDSrz9rSgBKCL_agw",
+            "authorChannelId": {
+              "value": "UCjpjhMaDSrz9rSgBKCL_agw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T19:35:03Z",
+            "updatedAt": "2022-09-24T19:35:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "h1v5ueo0q_YzJTFaz9ectdWHSVs",
+      "id": "UgxYi7kIO3Xi6LJ5kg14AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TMAgCWEzZ83gCRT4kr2CKGsDB14",
+          "id": "UgxYi7kIO3Xi6LJ5kg14AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Film o czysta ok.\u003cbr\u003eTo teraz czysta66 i czysta69",
+            "textOriginal": "Film o czysta ok.\nTo teraz czysta66 i czysta69",
+            "authorDisplayName": "Tomasz Po",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu96IUv-7i9VbkT3ODXUaVSi4iLSjCPt7TqJpA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaLLkgpb8XQnzMWPfjyEOFQ",
+            "authorChannelId": {
+              "value": "UCaLLkgpb8XQnzMWPfjyEOFQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:32:01Z",
+            "updatedAt": "2022-09-24T19:32:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "nBswy7t-CF4P9Nj1fmR-Rz5QDR8",
+      "id": "UgxDPGDs2xwGvpivEVx4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "73U4xXBIHmnEWDj6WCptuJfVt4A",
+          "id": "UgxDPGDs2xwGvpivEVx4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Film o CCC czad",
+            "textOriginal": "Film o CCC czad",
+            "authorDisplayName": "oskarro bednarski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/RplnU4WiQW-sp_-z-O8ZqRY3PoCMs6kGtnanY_MHrrbwmUdWRBNkYiNRqRdH0k8B3AtqyGQrje8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCfr-O65E3uxDp9TuBdAXj8w",
+            "authorChannelId": {
+              "value": "UCfr-O65E3uxDp9TuBdAXj8w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:21:04Z",
+            "updatedAt": "2022-09-24T19:21:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ocnQ2sdt_o4bhGYw8CDp1cF5Ybg",
+      "id": "UgzMw27aZK2gn9OssHt4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "V1nZO07KjKB_T7apeLDqcGX-P5k",
+          "id": "UgzMw27aZK2gn9OssHt4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "ZAJEBISTE mordko. 😅 to teraz druga część 😂",
+            "textOriginal": "ZAJEBISTE mordko. 😅 to teraz druga część 😂",
+            "authorDisplayName": "HoneyBunny",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_diDAwOq7movn9qsTaIyPE5Kw8lvPR-etzkwe03g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJPRAKrVrRLc18vcAv4IDLA",
+            "authorChannelId": {
+              "value": "UCJPRAKrVrRLc18vcAv4IDLA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T19:16:57Z",
+            "updatedAt": "2022-09-24T19:16:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0QqGs2HE67kdm24erqB1DQKBuvk",
+      "id": "Ugx_R8cKGi6k5gX3mI94AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JEVybwTfyWRzsIz0zbivyUSbisI",
+          "id": "Ugx_R8cKGi6k5gX3mI94AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Motto ZUZu xDDDDDDD",
+            "textOriginal": "Motto ZUZu xDDDDDDD",
+            "authorDisplayName": "B4N4N",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9TzVMEappP54QNko4F7f6nBa-HKLpY5cI4gS59tA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTUqxg-ZyLW2-WBcqPBTm8Q",
+            "authorChannelId": {
+              "value": "UCTUqxg-ZyLW2-WBcqPBTm8Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:11:44Z",
+            "updatedAt": "2022-09-24T19:11:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9sEkOxAC0irNYEwDUwhCwSPuZG4",
+      "id": "UgzTXmivPBtsTKMSBH14AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1CkfKninWJK4cmKcbM8SEZ0rj0s",
+          "id": "UgzTXmivPBtsTKMSBH14AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Pomysł na szyderczy tytuł jest genialny. Zachowaj go na stałe",
+            "textOriginal": "Pomysł na szyderczy tytuł jest genialny. Zachowaj go na stałe",
+            "authorDisplayName": "Gabryś Stryczek",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9149VaUvNkrF5ZPry_oKqexxp2YDpkZmE8Mw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjbvjq8qCB-jvNkpHWFDJww",
+            "authorChannelId": {
+              "value": "UCjbvjq8qCB-jvNkpHWFDJww"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T19:07:57Z",
+            "updatedAt": "2022-09-24T19:07:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TnRTZHb1AVwjLUwmowN2aeBk8I4",
+      "id": "UgzFX6T0VfR7ltI-5154AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xtdoyfAHT2xd87XEvlvdo1sMcec",
+          "id": "UgzFX6T0VfR7ltI-5154AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Ja bym chciał szyderczy skrót &quot;Jumanji&quot; mega fajny film",
+            "textOriginal": "Ja bym chciał szyderczy skrót \"Jumanji\" mega fajny film",
+            "authorDisplayName": "Grakubabiel Biel",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9vSPUVqaV8dFG5O7IzN9jXlEQZm1a_YRzSCg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYzMyyWGUV_4EWWbsMoutpg",
+            "authorChannelId": {
+              "value": "UCYzMyyWGUV_4EWWbsMoutpg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:05:41Z",
+            "updatedAt": "2022-09-24T19:05:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6o0x1veYlhZ_VTYw7ytCMCVrd7M",
+      "id": "UgzXV_o-TwGOv0Crr2F4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-T1bg_dX16GupN_0g9ncf4CMpXI",
+          "id": "UgzXV_o-TwGOv0Crr2F4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "...",
+            "textOriginal": "...",
+            "authorDisplayName": "Simano",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/wwWKWmViuOuBFgRTiaz-Vci8r-zjGEfF--rM5UgrCK1s5LFAQeOedN_nXDJEAQgEixTt79cg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCouvbLXJGZlRjZ51sDlLX9g",
+            "authorChannelId": {
+              "value": "UCouvbLXJGZlRjZ51sDlLX9g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T19:04:47Z",
+            "updatedAt": "2022-09-24T19:04:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9_NeMOPt_w6mBfmJnelUjvkEbiQ",
+      "id": "Ugx7NwIVP4yBz4yKSld4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mLQrCwBDRvVIPsiv_8jkrBvaNOE",
+          "id": "Ugx7NwIVP4yBz4yKSld4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Nie skok tygrysa tylko Tygrysiej Maski, Polonia 1 nie miałeś?🤣",
+            "textOriginal": "Nie skok tygrysa tylko Tygrysiej Maski, Polonia 1 nie miałeś?🤣",
+            "authorDisplayName": "Bartosz Bober",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9NWE9jrFZJldqAya041_sn5-lRh2fOiyQDZw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCi6dAPykGUKft6i-qgvx4dQ",
+            "authorChannelId": {
+              "value": "UCi6dAPykGUKft6i-qgvx4dQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T19:00:44Z",
+            "updatedAt": "2022-09-24T19:00:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WPTmaZN9HfLSMmXQExukZhgM8Gc",
+      "id": "UgyXHhGumtJEz7QTwdt4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wJfkFlPAK6_a4okjE__cPU4P4jk",
+          "id": "UgyXHhGumtJEz7QTwdt4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "23,07 Spartanina na minutę :)",
+            "textOriginal": "23,07 Spartanina na minutę :)",
+            "authorDisplayName": "Tak Na Maginesie",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8Bg0wRIY8BbZJhZcsIlKcdHHFiQnYIgEhUeFtf=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqNRenTAJCf2R6FEc-9I4lQ",
+            "authorChannelId": {
+              "value": "UCqNRenTAJCf2R6FEc-9I4lQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T18:56:45Z",
+            "updatedAt": "2022-09-24T18:56:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "S6EMlEo3QMDzavjnW351XEZjQvY",
+      "id": "UgzE3hspfG4dPhWnY6h4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3PX7rRb2pFHrmpa71ks4lpd15U4",
+          "id": "UgzE3hspfG4dPhWnY6h4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "No tak, &quot;300&quot; ma pełno homoerotycznych podtekstów.\u003cbr\u003eA Kserkses to tutaj łysy mutant z całym sklepem jubilerskim na twarzy.",
+            "textOriginal": "No tak, \"300\" ma pełno homoerotycznych podtekstów.\nA Kserkses to tutaj łysy mutant z całym sklepem jubilerskim na twarzy.",
+            "authorDisplayName": "Trojden100",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-FjgmTh0B1LUKe_ZL1JQRn68IzppLc_lcmBw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3llgHKlkWdk4eSq0NzIASg",
+            "authorChannelId": {
+              "value": "UC3llgHKlkWdk4eSq0NzIASg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T18:56:09Z",
+            "updatedAt": "2022-09-24T18:56:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SoK9wAjMlV019PlZPnwHzEOtFqI",
+      "id": "Ugygv0nsdAopFX1AEkF4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ckh0aeIHdtzLLXps-mN-yi6DL2o",
+          "id": "Ugygv0nsdAopFX1AEkF4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Świetny odcinek.",
+            "textOriginal": "Świetny odcinek.",
+            "authorDisplayName": "Dominik Kuliński",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu96XPIufF9T28_Ww_kwgm7LvjtW5Jyhj9CG1FP7mA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCfQsvHhpNkewX0EDMwydBoA",
+            "authorChannelId": {
+              "value": "UCfQsvHhpNkewX0EDMwydBoA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T18:55:08Z",
+            "updatedAt": "2022-09-24T18:55:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "A-RkY6WwXAuFcy0nl9rgFtrpCII",
+      "id": "UgwHChB26wxfKIUh4yJ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wa-Vj8JCxmgRsBrKzCKIZE9esyw",
+          "id": "UgwHChB26wxfKIUh4yJ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Dawaj zrób szyderczy skrót  &quot;geneza  planety małp &quot;",
+            "textOriginal": "Dawaj zrób szyderczy skrót  \"geneza  planety małp \"",
+            "authorDisplayName": "Filipe",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/pnQPoRquRZjPUYiQGb6LZtWBwD61XbmFXnMEfrFRsAcQGCb1HwIyGsle-s1MJTNHwH9qk2ttHQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYSI7t0f7rGzjkwmIiiihDA",
+            "authorChannelId": {
+              "value": "UCYSI7t0f7rGzjkwmIiiihDA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:53:51Z",
+            "updatedAt": "2022-09-24T19:09:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "u5hO71aPNxc2YUGDnhOp3pnGP34",
+      "id": "UgyrTyQTXBmZ4XWnsCB4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "jllHXM4i83pMeCWE5DGjtJdpseE",
+          "id": "UgyrTyQTXBmZ4XWnsCB4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Z punktu historycznego ten film to gówno. Spartanie nie latali w samych gaciach i pelerynach, leaonidas w czasie bitwy miał ponad 60 lat i dowodził z tyłów, termopile tak nie wygldają, żołnierze perscy wyglądali inaczej, kserkses tak nie wyglądał, nie było żadnego deszczu strzał i wiele więcej. Mnie bakcylem do historii ten film rani w oczy więc moja ocena to 2/10.",
+            "textOriginal": "Z punktu historycznego ten film to gówno. Spartanie nie latali w samych gaciach i pelerynach, leaonidas w czasie bitwy miał ponad 60 lat i dowodził z tyłów, termopile tak nie wygldają, żołnierze perscy wyglądali inaczej, kserkses tak nie wyglądał, nie było żadnego deszczu strzał i wiele więcej. Mnie bakcylem do historii ten film rani w oczy więc moja ocena to 2/10.",
+            "authorDisplayName": "Mikołaj",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_G0rxinuGiPPNQLGBoV2iJavreFHy77-xBYrSp3LmyDdsfDbT_XNgMluzEcyL9=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFyBf3Sb1pPfka4p7lPynXg",
+            "authorChannelId": {
+              "value": "UCFyBf3Sb1pPfka4p7lPynXg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T18:52:42Z",
+            "updatedAt": "2022-09-24T18:52:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "MRmi4UlL5Jh4dzF5-FdtHagaCTA",
+            "id": "UgyrTyQTXBmZ4XWnsCB4AaABAg.9gN785Ja4i_9gOxiVup5bB",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "Bo to jest ekranizacja komiksu, a nie ekranizacja wydarzeń historycznych.",
+              "textOriginal": "Bo to jest ekranizacja komiksu, a nie ekranizacja wydarzeń historycznych.",
+              "parentId": "UgyrTyQTXBmZ4XWnsCB4AaABAg",
+              "authorDisplayName": "Piotr K.",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-rZt4_H3BdmsWsDXKTsh-exDJggXJ_d99L1Q=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCs4WaMaqAnIP--Lf2qMQT7g",
+              "authorChannelId": {
+                "value": "UCs4WaMaqAnIP--Lf2qMQT7g"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2022-09-25T12:00:10Z",
+              "updatedAt": "2022-09-25T12:00:10Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "a7fJJCNrzJltrGJOolE7uUpceKc",
+      "id": "UgxguyLhVx66EHdKP8t4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qQKOnIwsgHYniere4NOZ028cG1I",
+          "id": "UgxguyLhVx66EHdKP8t4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Myślałem że film &quot;Poznaj moich Spartan&quot; to parodia ale z tego co widzę to oświetlenie miał dużo lepsze niż oryginał 😂.",
+            "textOriginal": "Myślałem że film \"Poznaj moich Spartan\" to parodia ale z tego co widzę to oświetlenie miał dużo lepsze niż oryginał 😂.",
+            "authorDisplayName": "MrSkabczak",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_8P2P6OD6N230x3r2aWPO6wJrCOOjpWf6AAdGo=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCD9lRM5y2YQOdJexNBPvL6w",
+            "authorChannelId": {
+              "value": "UCD9lRM5y2YQOdJexNBPvL6w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 14,
+            "publishedAt": "2022-09-24T18:50:28Z",
+            "updatedAt": "2022-09-24T18:50:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tqOPk16mFES9GdI863SlfvrkIHk",
+      "id": "UgzPhZ_gCeZ4kiDrS4F4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "SA1ESFv7BR__ORvHwXmgAeDykd4",
+          "id": "UgzPhZ_gCeZ4kiDrS4F4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Ten film jest tym, czym go zapamiętałem: idealnym odmóżdżaczem na wieczór ze znajomymi przy piwku.",
+            "textOriginal": "Ten film jest tym, czym go zapamiętałem: idealnym odmóżdżaczem na wieczór ze znajomymi przy piwku.",
+            "authorDisplayName": "FioX",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8ngF_4QsWPDFAdy3X6oJcUJnSSZcPHrM4NwMDtSbo1ZZ5r_zQ9uUh7E5MwF0lb=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjZP2bOSFgD5fN7_230BGZg",
+            "authorChannelId": {
+              "value": "UCjZP2bOSFgD5fN7_230BGZg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T18:48:34Z",
+            "updatedAt": "2022-09-24T18:48:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "y_oWpqK7dT2lAmvZjqsE0iA1NP0",
+      "id": "Ugy2as5uAwlmTZDsKf14AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "yUp6-VPhQQYYpzBkRBZnymHI6rA",
+          "id": "Ugy2as5uAwlmTZDsKf14AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Świetny skrót jak zawsze...  Idealny relaks po pracy. Mógłbyś dokończyć Władcę Pierścieni i streścić &quot;Powrót Króla&quot;?? Pozdro i życzę milion subów!!!",
+            "textOriginal": "Świetny skrót jak zawsze...  Idealny relaks po pracy. Mógłbyś dokończyć Władcę Pierścieni i streścić \"Powrót Króla\"?? Pozdro i życzę milion subów!!!",
+            "authorDisplayName": "jaguar1988",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-UL7KSKG8ZoL7buLnDfsJVikVgkxKrqt14sedn=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0v0wmY1zsWH4QPRfNjEI_A",
+            "authorChannelId": {
+              "value": "UC0v0wmY1zsWH4QPRfNjEI_A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2022-09-24T18:48:10Z",
+            "updatedAt": "2022-09-24T18:48:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pDAfmI3WvX_gXAd9ox-kwasCm_E",
+      "id": "Ugx2wSpNXahDWC3SMMl4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cqS51s0Zw5DBnGNxp2QM1ljIYqk",
+          "id": "Ugx2wSpNXahDWC3SMMl4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Wniosek formalny, poprosimy DLC do odcinka - &quot;Poznaj Moich Spartan&quot; 😁",
+            "textOriginal": "Wniosek formalny, poprosimy DLC do odcinka - \"Poznaj Moich Spartan\" 😁",
+            "authorDisplayName": "Marshallek",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu86lkP8uwAh8CcYpD0eA19BBPcFpqFO1IwmFW8dzQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8wfhptT4CW9RK19rN9UGtQ",
+            "authorChannelId": {
+              "value": "UC8wfhptT4CW9RK19rN9UGtQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2022-09-24T18:47:56Z",
+            "updatedAt": "2022-09-24T18:47:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aErLgT4unPqGnNJSbKE9IQg4dDw",
+      "id": "UgxHFgAt933wPj5yTXl4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YWVlffD6hGmn_k5FA6_48YPAR7Y",
+          "id": "UgxHFgAt933wPj5yTXl4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Ja leżę w łóżku i sobie choruję a ten film pozwala mi się pośmiać XD 🤕🤣",
+            "textOriginal": "Ja leżę w łóżku i sobie choruję a ten film pozwala mi się pośmiać XD 🤕🤣",
+            "authorDisplayName": "Lucy Ciacia",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-RnykCt83NX5UqbrVZWZuk9DtZqxIhO-uy-KhbbtCsmH1oIwwNb667oCukZQr1=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLqmNDcIxx2shgIUDCZhQ9Q",
+            "authorChannelId": {
+              "value": "UCLqmNDcIxx2shgIUDCZhQ9Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 7,
+            "publishedAt": "2022-09-24T18:47:52Z",
+            "updatedAt": "2022-09-24T18:47:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WA18c4wNgCXXDwBkDUVpvTEc_qI",
+      "id": "Ugx4ZqElkMqnyCmZhGJ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "P3_QiDwYzXrrYb9LUYjfhpV-bCU",
+          "id": "Ugx4ZqElkMqnyCmZhGJ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "600 sutów albo 600 orzeszków",
+            "textOriginal": "600 sutów albo 600 orzeszków",
+            "authorDisplayName": "Nie Ja 🇺🇦",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/VE_G-DVL9ObvRT9-1TepGWL1zY-FiC_zxN4I-qIi3E9xGL7A-0KCZkj0WarpP3oF2od5grmV=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdCzA2Kbh5hU_XJRLT8N1Tg",
+            "authorChannelId": {
+              "value": "UCdCzA2Kbh5hU_XJRLT8N1Tg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T18:47:09Z",
+            "updatedAt": "2022-09-24T18:47:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "340v_XIjHG-7oKxJIgifXvdY0yY",
+      "id": "UgxEuGlqBphJkENaSCp4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2Wka1XLLNCNPEdSDmCef-JdsRxI",
+          "id": "UgxEuGlqBphJkENaSCp4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Końcówka najlepsza",
+            "textOriginal": "Końcówka najlepsza",
+            "authorDisplayName": "Alan Wicinski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/75g4nejzE8v4mtcm3t8p8adELS_y1q-WII4NDgFu4KRIdpKdJUG_KIP7uAXCT15Mm1qJI-J7QA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChPrJvKCu5V3DLXxOATJWCg",
+            "authorChannelId": {
+              "value": "UChPrJvKCu5V3DLXxOATJWCg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:39:46Z",
+            "updatedAt": "2022-09-24T18:39:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CtyWuZxekiaDFzdZp_OCJ86xpVg",
+      "id": "UgzovA5ow4OPgfuzAeJ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ft1DM7_x-5FZfpy_eJrpbaePi9c",
+          "id": "UgzovA5ow4OPgfuzAeJ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Szyderczy tytuł „600 sutów” 😂",
+            "textOriginal": "Szyderczy tytuł „600 sutów” 😂",
+            "authorDisplayName": "Veltonire Victor Squlghulius",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_TcjL8Wi7nLDyJMn779OLElqez1CsiXk9u9ITC=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHuy5WWfhOpIMzTWWmdpt0g",
+            "authorChannelId": {
+              "value": "UCHuy5WWfhOpIMzTWWmdpt0g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:37:36Z",
+            "updatedAt": "2022-09-24T18:37:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7udDSgLPG6tIv_sF9F4d4mRn54E",
+      "id": "Ugz9xsjBQG6Q8mOW6Np4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lXj0poc_deX5Dw5cMZvuQUVcdwQ",
+          "id": "Ugz9xsjBQG6Q8mOW6Np4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Poznaj moich Spartan może teraz skoro jest 300?",
+            "textOriginal": "Poznaj moich Spartan może teraz skoro jest 300?",
+            "authorDisplayName": "Wujo Hardeqqq",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-s93FDAY6S3k4cEcmAI-AiS0Er70Orqvy7ExJn=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqJ5U14jzDT-n3x8l0yHPVA",
+            "authorChannelId": {
+              "value": "UCqJ5U14jzDT-n3x8l0yHPVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:34:45Z",
+            "updatedAt": "2022-09-24T18:34:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "w0o_5FRVp50w5pWVwdYBrrjIbWs",
+      "id": "Ugygza7EEJMdPkp4JtN4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JmzkF1yXPwt21JIcStxxZZVtl08",
+          "id": "Ugygza7EEJMdPkp4JtN4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Motto zusu mnie rozjechało leżę i kwicze 😂🤣😂🤣",
+            "textOriginal": "Motto zusu mnie rozjechało leżę i kwicze 😂🤣😂🤣",
+            "authorDisplayName": "Adam Załęski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9TR-7XgQIa8h4V94INncQ9XtRWKwPIMUiAujAy=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5USR40FIdZFlBbI0VcoiwA",
+            "authorChannelId": {
+              "value": "UC5USR40FIdZFlBbI0VcoiwA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 8,
+            "publishedAt": "2022-09-24T18:34:01Z",
+            "updatedAt": "2022-09-24T18:34:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NJAONZOQHJ0p2y2WByfQk1KDL5I",
+      "id": "Ugxl0ryWBUk0ifzuSr94AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IVg4T5JCKgTjs9pmAj9GlpgORo0",
+          "id": "Ugxl0ryWBUk0ifzuSr94AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Jesteś legendą, zasługujesz na milion a nawet 2",
+            "textOriginal": "Jesteś legendą, zasługujesz na milion a nawet 2",
+            "authorDisplayName": "Gabi Braun",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/0-Kf9CZfG0bQqYhFXWGPgsi-j9YvofmXcXHk5qJvUg5WzWDyexnCKPbuqdnn733zh4P_-P67=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQ4C5szutmieYFCNpVLnhCg",
+            "authorChannelId": {
+              "value": "UCQ4C5szutmieYFCNpVLnhCg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:33:57Z",
+            "updatedAt": "2022-09-24T18:34:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 8,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "ONy52YVjZ0Rf9vlY4s40YkYC3z8",
+            "id": "Ugxl0ryWBUk0ifzuSr94AaABAg.9gN4zjtaTuJ9gYWT5iFjPr",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "@MR CARP 97 Myśleć o nim możesz co chcesz. Tak samo jak ja, dla mnie facet jest legendą",
+              "textOriginal": "@MR CARP 97 Myśleć o nim możesz co chcesz. Tak samo jak ja, dla mnie facet jest legendą",
+              "parentId": "Ugxl0ryWBUk0ifzuSr94AaABAg",
+              "authorDisplayName": "Gabi Braun",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/0-Kf9CZfG0bQqYhFXWGPgsi-j9YvofmXcXHk5qJvUg5WzWDyexnCKPbuqdnn733zh4P_-P67=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCQ4C5szutmieYFCNpVLnhCg",
+              "authorChannelId": {
+                "value": "UCQ4C5szutmieYFCNpVLnhCg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2022-09-29T05:05:40Z",
+              "updatedAt": "2022-09-29T05:05:40Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "9D_9uETJCw1k7nMqiqV17hmzK70",
+            "id": "Ugxl0ryWBUk0ifzuSr94AaABAg.9gN4zjtaTuJ9gXhjErST5v",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "@Gabi Braun No dla mnie on jest błaznem. Nie żadną Legendą o to mi chodzi!",
+              "textOriginal": "@Gabi Braun No dla mnie on jest błaznem. Nie żadną Legendą o to mi chodzi!",
+              "parentId": "Ugxl0ryWBUk0ifzuSr94AaABAg",
+              "authorDisplayName": "MR CARP 97",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/3EKlwZTAarz83bFOvY0ZWKF7qpo60ZmiLANi3RZW7PWGrdey6PXeNYJKmUKOLl2JEjntYoKx-uE=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC3Mj0Gi5UnKITxvLjVY5paQ",
+              "authorChannelId": {
+                "value": "UC3Mj0Gi5UnKITxvLjVY5paQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2022-09-28T21:33:38Z",
+              "updatedAt": "2022-09-28T21:33:38Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "KZZ8CV_6ui-EYK0hqoJki3bZtkk",
+            "id": "Ugxl0ryWBUk0ifzuSr94AaABAg.9gN4zjtaTuJ9gXgc7nhAVx",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "@MR CARP 97 Legendą może być każdy kto osiągnął coś godnego podziwu. Piłkarz, bokser, polityk, youtuber. Pajacem to ty jesteś",
+              "textOriginal": "@MR CARP 97 Legendą może być każdy kto osiągnął coś godnego podziwu. Piłkarz, bokser, polityk, youtuber. Pajacem to ty jesteś",
+              "parentId": "Ugxl0ryWBUk0ifzuSr94AaABAg",
+              "authorDisplayName": "Gabi Braun",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/0-Kf9CZfG0bQqYhFXWGPgsi-j9YvofmXcXHk5qJvUg5WzWDyexnCKPbuqdnn733zh4P_-P67=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCQ4C5szutmieYFCNpVLnhCg",
+              "authorChannelId": {
+                "value": "UCQ4C5szutmieYFCNpVLnhCg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2022-09-28T21:23:55Z",
+              "updatedAt": "2022-09-28T21:24:22Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "KK6acyI1BSXpQ3_aPsQRoWMgs2c",
+            "id": "Ugxl0ryWBUk0ifzuSr94AaABAg.9gN4zjtaTuJ9gXcWeeABpz",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "@Gabi Braun Legendą może być bokser,piłkarz lub koszykarz. Ale nie polski pajac z yotube.",
+              "textOriginal": "@Gabi Braun Legendą może być bokser,piłkarz lub koszykarz. Ale nie polski pajac z yotube.",
+              "parentId": "Ugxl0ryWBUk0ifzuSr94AaABAg",
+              "authorDisplayName": "MR CARP 97",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/3EKlwZTAarz83bFOvY0ZWKF7qpo60ZmiLANi3RZW7PWGrdey6PXeNYJKmUKOLl2JEjntYoKx-uE=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC3Mj0Gi5UnKITxvLjVY5paQ",
+              "authorChannelId": {
+                "value": "UC3Mj0Gi5UnKITxvLjVY5paQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2022-09-28T20:48:05Z",
+              "updatedAt": "2022-09-28T20:48:05Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "CE8-zYPJWZoQiZ1Dx70Kuv5G8Nw",
+            "id": "Ugxl0ryWBUk0ifzuSr94AaABAg.9gN4zjtaTuJ9gXbNXktDBO",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "@MR CARP 97 Jest i będzie. Może na razie ma tylko 200 tys. subskrypcji, ale zauważ jak wyglądał jego kanał 2 lata temu a ile 4. Bardzo się rozwinął, a dokładniej rozwinął swoje tło, sposób montowania, dykcję, szybkość wypowiedzi, ma coraz bardziej wyrafinowane żarty no i widać, że chłop się stara. Wbrew pozorom wykonanie takiej pracy wymaga sporo motywacji i poświęcenia, chłop na bank pracuje nad scenariuszami długie godziny, dzięki czemu my dostajemy rozrywkę na TAKIM wysokim poziomie. W dodatku ostatnio w każdy weekend. Naprawdę jestem dumny z gościa i życzę mu co najmniej miliona.",
+              "textOriginal": "@MR CARP 97 Jest i będzie. Może na razie ma tylko 200 tys. subskrypcji, ale zauważ jak wyglądał jego kanał 2 lata temu a ile 4. Bardzo się rozwinął, a dokładniej rozwinął swoje tło, sposób montowania, dykcję, szybkość wypowiedzi, ma coraz bardziej wyrafinowane żarty no i widać, że chłop się stara. Wbrew pozorom wykonanie takiej pracy wymaga sporo motywacji i poświęcenia, chłop na bank pracuje nad scenariuszami długie godziny, dzięki czemu my dostajemy rozrywkę na TAKIM wysokim poziomie. W dodatku ostatnio w każdy weekend. Naprawdę jestem dumny z gościa i życzę mu co najmniej miliona.",
+              "parentId": "Ugxl0ryWBUk0ifzuSr94AaABAg",
+              "authorDisplayName": "Gabi Braun",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/0-Kf9CZfG0bQqYhFXWGPgsi-j9YvofmXcXHk5qJvUg5WzWDyexnCKPbuqdnn733zh4P_-P67=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCQ4C5szutmieYFCNpVLnhCg",
+              "authorChannelId": {
+                "value": "UCQ4C5szutmieYFCNpVLnhCg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2022-09-28T20:38:06Z",
+              "updatedAt": "2022-09-28T20:38:06Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rY4ASoPMUU-sVMb7bLaUisrDFHw",
+      "id": "Ugyk_-CqbUfG_Q5g5n54AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-YYAC0aFbHRMk5y-i1JH1utf0gI",
+          "id": "Ugyk_-CqbUfG_Q5g5n54AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Ostatnio się tak usmielem na ostatnim odcinku te teksty mnie po prostu stwarzają smiechawe.",
+            "textOriginal": "Ostatnio się tak usmielem na ostatnim odcinku te teksty mnie po prostu stwarzają smiechawe.",
+            "authorDisplayName": "arkosso1",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_UP8spZTpxiMdrOsyqpgTmKL9YIFoQ6Ltvvg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCM0WsLqN7VPdIUYfJ0iT1Dw",
+            "authorChannelId": {
+              "value": "UCM0WsLqN7VPdIUYfJ0iT1Dw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:33:24Z",
+            "updatedAt": "2022-09-24T18:33:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "U6eulOJwdYwCvn6z1AngS8eu3LE",
+      "id": "UgxEcYic5dO3nWnbnyB4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "yN-CqgW8ygBeHrWl0BD6UPh_F8A",
+          "id": "UgxEcYic5dO3nWnbnyB4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Toś pierdolnął ideał:) gratuluję :)",
+            "textOriginal": "Toś pierdolnął ideał:) gratuluję :)",
+            "authorDisplayName": "adasbb",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8GRGSvo1jHmzmdQHtFGwUVi0flb-ClujMbpLFd-g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNXpF892pDdnfrIkVCEiLAg",
+            "authorChannelId": {
+              "value": "UCNXpF892pDdnfrIkVCEiLAg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:31:03Z",
+            "updatedAt": "2022-09-24T18:31:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tpUTjstzs7_gaMsF_q8IiveoeTQ",
+      "id": "UgweK1Oxti0QoTia7Bx4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nTiBBMgGc6XovG74Z43Clf1kMdc",
+          "id": "UgweK1Oxti0QoTia7Bx4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "A kiedy wladca pierscieni powrót króla?\u003cbr\u003eBo za chwile będziesz musiał robisz skrót serialu",
+            "textOriginal": "A kiedy wladca pierscieni powrót króla?\nBo za chwile będziesz musiał robisz skrót serialu",
+            "authorDisplayName": "piotr nowak",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8MxeUplTmebCooovDMap9eXF2Uooa0FxyrKA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6hOgq9J57stVBCE__1lcIQ",
+            "authorChannelId": {
+              "value": "UC6hOgq9J57stVBCE__1lcIQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:28:30Z",
+            "updatedAt": "2022-09-24T18:28:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wCNDkHgQmatyc9cRjc6CTLUr6hM",
+      "id": "UgxTgRN9jvxvyo0FkHR4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_Lk7irU73TWFozeNEB3lY8paa4U",
+          "id": "UgxTgRN9jvxvyo0FkHR4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "najlepszy odcinek XDDD \u003ca href=\"https://www.youtube.com/watch?v=90LN0_TV8Vk&amp;t=3m27s\"\u003e3:27\u003c/a\u003e",
+            "textOriginal": "najlepszy odcinek XDDD 3:27",
+            "authorDisplayName": "Adam Fojer",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8wGRkI5h11oKCbkqLMjRGnXrvBjO_JaVIuyr21=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtqVsJ9rlgPqv4eREn-YJEQ",
+            "authorChannelId": {
+              "value": "UCtqVsJ9rlgPqv4eREn-YJEQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:24:43Z",
+            "updatedAt": "2022-09-24T18:24:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JE_qkWbjP3M6Vm2OK31QQX-U2L4",
+      "id": "UgzeQKUorz1Lqb-HJIN4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OO3OTNXymfr54L21N3JN2MCz20U",
+          "id": "UgzeQKUorz1Lqb-HJIN4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "a może szyderczy skrót &quot;flasha&quot; z netflixa wszystkie sezony?",
+            "textOriginal": "a może szyderczy skrót \"flasha\" z netflixa wszystkie sezony?",
+            "authorDisplayName": "radixd",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/GtRYgBh-nj-9KdhjOhMziMaNqszIPl_-F7LPW1MwjM4wRNTIYgWMzjSY9nwaug_bHis3kmBH-w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrvw5Jo7Af7Sg1r75ewhYFQ",
+            "authorChannelId": {
+              "value": "UCrvw5Jo7Af7Sg1r75ewhYFQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T18:23:46Z",
+            "updatedAt": "2022-09-24T18:23:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UvOXkMzkFWWYT9eA_zyWHikIJgc",
+      "id": "UgzjfNZoBRpeS6p5PwJ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vQ5JN4HPPIkc6HZM6L11JlstwTE",
+          "id": "UgzjfNZoBRpeS6p5PwJ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Dewaj teraz film: Poznaj moich spartan pls",
+            "textOriginal": "Dewaj teraz film: Poznaj moich spartan pls",
+            "authorDisplayName": "Kruchy Gaming",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-axHJUHoPfJrHGfb46YMB_Nt7lc28bxwYbtZ5x=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3JEgwjWpFD-tCNrp3sKTsA",
+            "authorChannelId": {
+              "value": "UC3JEgwjWpFD-tCNrp3sKTsA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:19:57Z",
+            "updatedAt": "2022-09-24T18:19:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uNSFP9pGjnsW9nYiehguWpXpfbY",
+      "id": "UgxhNwmuWy2WN3Y-Dsx4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "bSiEX9J9jTmzqghKXkSdJ19W-nk",
+          "id": "UgxhNwmuWy2WN3Y-Dsx4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Dawaj gladiatora",
+            "textOriginal": "Dawaj gladiatora",
+            "authorDisplayName": "mikos_ __",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8mr2AKOzG6t-a4PsSyBVNdoh1EI42vaMj4I082=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkvspQGXCh9hvtUxRaDLk2g",
+            "authorChannelId": {
+              "value": "UCkvspQGXCh9hvtUxRaDLk2g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T18:17:46Z",
+            "updatedAt": "2022-09-24T18:17:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DgjhV_7mIwKL_pQLyDgqwye7Pto",
+      "id": "UgwsPjOL9waLt6OzLLF4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "slwIZHAOQFOIhwzmbvKtyiDAV6I",
+          "id": "UgwsPjOL9waLt6OzLLF4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Ooo, kolejny nowy dodatek na koniec! Super! :-)",
+            "textOriginal": "Ooo, kolejny nowy dodatek na koniec! Super! :-)",
+            "authorDisplayName": "MrsEmi1990",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9GCWZ3EvArdBrZu2O5Ic6lIRmkoC83i8i45g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCsrlk_VGOA6O_phQl2IhKtQ",
+            "authorChannelId": {
+              "value": "UCsrlk_VGOA6O_phQl2IhKtQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:07:48Z",
+            "updatedAt": "2022-09-24T18:07:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rbL2h9SJs0lfABk829VVrU-YSQ8",
+      "id": "UgyMSlBITGcGGPMWPQB4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "CEvTgU-1glqrv6PAThzqwAvm7gY",
+          "id": "UgyMSlBITGcGGPMWPQB4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Tak, stare filmy są najlepsze, dlatego w moim najnowszym nagraniu omawiam Władcę Pierścieni. Aż się łezka w oku kręci...",
+            "textOriginal": "Tak, stare filmy są najlepsze, dlatego w moim najnowszym nagraniu omawiam Władcę Pierścieni. Aż się łezka w oku kręci...",
+            "authorDisplayName": "Filmowy Inkwizytor",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/s5JnQfRKlN-F4n4AnaJAasViO22gi87PpfL3zYkezqPL4biBdM1bT0jiV825A9NSBD0UrVyk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCp_b7W5C2I_t7G3DMoVkxyg",
+            "authorChannelId": {
+              "value": "UCp_b7W5C2I_t7G3DMoVkxyg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:07:02Z",
+            "updatedAt": "2022-09-24T18:07:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Wqdfxu7x4rDORFIlGftoYP01vPQ",
+      "id": "UgwynE73nbatJpkiKQJ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fO5m9Lqt6mxCoylDcYcPeSdVdWM",
+          "id": "UgwynE73nbatJpkiKQJ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "🤩😂",
+            "textOriginal": "🤩😂",
+            "authorDisplayName": "Justyna Just",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9-z9_t6u7vlwhhYPEKz16M0eIG554-l53tXCjasOjhcXCti6O33tYMlDg_485H=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCoYHt4F5pkjkVQZsn-mn1pQ",
+            "authorChannelId": {
+              "value": "UCoYHt4F5pkjkVQZsn-mn1pQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T18:06:12Z",
+            "updatedAt": "2022-09-24T18:06:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cvR6Lc85tqR3Cy_AaraUqE63pDs",
+      "id": "UgwuyEfTYYotCJrSPsx4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4hZTAy27TD36pF9gB0NAGGCvvWA",
+          "id": "UgwuyEfTYYotCJrSPsx4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Ej zrobiłbyś odcinek z Leona zawodowca",
+            "textOriginal": "Ej zrobiłbyś odcinek z Leona zawodowca",
+            "authorDisplayName": "Kapitan Sosnowiec",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-9_R4sU5zWnWZyVJWWlDIAmOfVsc-ADVERsDbm=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxX-IWjbkb_mAQ2A5TiTmeQ",
+            "authorChannelId": {
+              "value": "UCxX-IWjbkb_mAQ2A5TiTmeQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T18:06:08Z",
+            "updatedAt": "2022-09-24T18:06:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "iJb9nls-zvNRDw5HjUCrtQ7iHXU",
+      "id": "UgwLkOoHS7zJz6fuZXp4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hxk-c1WACpaQziI5eBbzQ-F1h8w",
+          "id": "UgwLkOoHS7zJz6fuZXp4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Najlepszy 😁🤙🖖👏💪💪💪💪💪",
+            "textOriginal": "Najlepszy 😁🤙🖖👏💪💪💪💪💪",
+            "authorDisplayName": "Glanospecial",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8s9zu4_Oxqg09SPFhsO9icZYQ61b758qXzaBHx=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCH0uDN1rx9TEISPWiVgsFJQ",
+            "authorChannelId": {
+              "value": "UCH0uDN1rx9TEISPWiVgsFJQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T18:03:27Z",
+            "updatedAt": "2022-09-24T18:03:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "F7NYuDKul5xkHprvwa1BayqE0h4",
+      "id": "UgwtKS2u41_2jRORt0V4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6IdSXPxrmcZAx6fvTHTbAqfPw84",
+          "id": "UgwtKS2u41_2jRORt0V4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Sparta? Chuja warta!",
+            "textOriginal": "Sparta? Chuja warta!",
+            "authorDisplayName": "Susanna Neumann",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-YQHiQACKn9jhM4rl1OZx29cqmn8HMJQK6uXGiyO2AdoOtuGvlLOWXwWIf6J59=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTrWco0ud0F8Bi1s751f6nQ",
+            "authorChannelId": {
+              "value": "UCTrWco0ud0F8Bi1s751f6nQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:59:21Z",
+            "updatedAt": "2022-09-24T17:59:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "OuXPcBfjfO_h8OymGMV-R3g3g9o",
+            "id": "UgwtKS2u41_2jRORt0V4AaABAg.9gN11MeBpIV9gN7tubFBeG",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "😆",
+              "textOriginal": "😆",
+              "parentId": "UgwtKS2u41_2jRORt0V4AaABAg",
+              "authorDisplayName": "Łukasz Cegiełka",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/wh3qAVp1WewYNyHwt39qv-zVBNIrk6fZAtfmjXKTGTpm0oLdegg0Mp6lqcItGvRjRvK3XJc4=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCU4C5KuCQWvOeH-J_SBAJtw",
+              "authorChannelId": {
+                "value": "UCU4C5KuCQWvOeH-J_SBAJtw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2022-09-24T18:59:22Z",
+              "updatedAt": "2022-09-24T18:59:22Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QeuzNtGupdpMxYq8nvVjl-6xDSo",
+      "id": "UgxlFfrrvhqdKR-HAi14AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Epgwq0pDd8QdBynUHnxSaDKScDE",
+          "id": "UgxlFfrrvhqdKR-HAi14AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=90LN0_TV8Vk&amp;t=7m39s\"\u003e7:39\u003c/a\u003e🤣🤣🤣🤣",
+            "textOriginal": "7:39🤣🤣🤣🤣",
+            "authorDisplayName": "slaw363",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9Ia1ujgCAdvho81Za68jeNcsKP77FsYEa5X8MY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMme58cPTp4GE95pTnqpOSQ",
+            "authorChannelId": {
+              "value": "UCMme58cPTp4GE95pTnqpOSQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:58:58Z",
+            "updatedAt": "2022-09-24T17:58:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-Ci5I3yxFBGc-zAz4AG1752yShE",
+      "id": "UgyJ1cGwB3GRTHDqDj14AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-J7YbPfAfRTPkHl61B3jJ0HZLzY",
+          "id": "UgyJ1cGwB3GRTHDqDj14AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "To teraz &quot;poznaj moich spartan&quot;",
+            "textOriginal": "To teraz \"poznaj moich spartan\"",
+            "authorDisplayName": "Josef Mengele",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-edkN8UHWeCA_qRyqtr6gJ1-hAk1sY5nOKiGSf=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLlcB8IT4Eifb7TxWqY-xew",
+            "authorChannelId": {
+              "value": "UCLlcB8IT4Eifb7TxWqY-xew"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:58:03Z",
+            "updatedAt": "2022-09-24T17:58:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "20iFSaY-H2ZxN1wt07k0I1DWR1U",
+      "id": "Ugz7CylyPFCLRfbNpuF4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JjwQ4XkKL3WdVcJoHG6Hxfc7pdo",
+          "id": "Ugz7CylyPFCLRfbNpuF4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Leon sandałowiec i 600 sutów :D umarłem :D",
+            "textOriginal": "Leon sandałowiec i 600 sutów :D umarłem :D",
+            "authorDisplayName": "Daniel T",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_6quT_vx601YW4d9nyuvCOlLA4eYh3fXHveAWL=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLZJjvilZZ7iv8jjZpQtsNw",
+            "authorChannelId": {
+              "value": "UCLZJjvilZZ7iv8jjZpQtsNw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T17:57:49Z",
+            "updatedAt": "2022-09-24T17:57:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8zOK7acj2XzC3-nWhFobonWma70",
+      "id": "Ugz9QKEAAfmkxoFaK5l4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Y76Sh44yn1Ik7HInwdjQPXm1xSA",
+          "id": "Ugz9QKEAAfmkxoFaK5l4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Super obejrzeć ten film a tuż potem jej parodię 🤣🤣🤣",
+            "textOriginal": "Super obejrzeć ten film a tuż potem jej parodię 🤣🤣🤣",
+            "authorDisplayName": "Marta Wątrucka",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8kF34t4A45bt53NSTu_zqugSem6sWKt6pttKAy=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCZyx5nyJ1wkx2irOODniskQ",
+            "authorChannelId": {
+              "value": "UCZyx5nyJ1wkx2irOODniskQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2022-09-24T17:57:24Z",
+            "updatedAt": "2022-09-24T17:57:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lvloA3Xhty9y49d4WPGCQQJSF8M",
+      "id": "Ugz2z-c7QmN1smwuafJ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uY-ZjUOo4fxlGIt75ORzDeiAUCc",
+          "id": "Ugz2z-c7QmN1smwuafJ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Będzie szyderczy skrót filmu &quot;Prawo Zemsty&quot;?",
+            "textOriginal": "Będzie szyderczy skrót filmu \"Prawo Zemsty\"?",
+            "authorDisplayName": "Skilah",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_sGu0e1Q_wCdzlb7HkKe2S137y54VhskFV5H9vBA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5vp7dntnlNMoyjcpm6kXDw",
+            "authorChannelId": {
+              "value": "UC5vp7dntnlNMoyjcpm6kXDw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T17:57:20Z",
+            "updatedAt": "2022-09-24T17:57:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eY8IUk1Kjr1JaHcXQ0qXiF-lQ7o",
+      "id": "Ugza-s2v7lHwSqTzGzZ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Iz4PxTPZXGRzVlEMnMUTtJnLJvM",
+          "id": "Ugza-s2v7lHwSqTzGzZ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Leon Sandałowiec 😂 epickie 😂",
+            "textOriginal": "Leon Sandałowiec 😂 epickie 😂",
+            "authorDisplayName": "Edyta Ostafińska",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8330zCdP6v9d2KoPO2dVmdhKqLnZ-dRUQ8tw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOGwjv2sfQhiyUfIqJ4R0zQ",
+            "authorChannelId": {
+              "value": "UCOGwjv2sfQhiyUfIqJ4R0zQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T17:56:30Z",
+            "updatedAt": "2022-09-24T17:56:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "MCbQ2qnCpX42AOLs_uuVLbj4xjQ",
+      "id": "UgyBw5LM66e_YnMkdZV4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rRs-XDEIb5GQqCcGfV1Fd0nSqIg",
+          "id": "UgyBw5LM66e_YnMkdZV4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=90LN0_TV8Vk&amp;t=1m24s\"\u003e1:24\u003c/a\u003e o kurwa to Snake!",
+            "textOriginal": "1:24 o kurwa to Snake!",
+            "authorDisplayName": "Kapitan Sosnowiec",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-9_R4sU5zWnWZyVJWWlDIAmOfVsc-ADVERsDbm=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxX-IWjbkb_mAQ2A5TiTmeQ",
+            "authorChannelId": {
+              "value": "UCxX-IWjbkb_mAQ2A5TiTmeQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:53:15Z",
+            "updatedAt": "2022-09-24T17:53:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8dsM1Af7uuspJEf3DupmrN1qytc",
+      "id": "UgwNHzKFaLNcUekKq1l4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "GrjAyVUP2vBRRrWfIupqjvou0HE",
+          "id": "UgwNHzKFaLNcUekKq1l4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "My nadal czekamy na powrót króla",
+            "textOriginal": "My nadal czekamy na powrót króla",
+            "authorDisplayName": "Antek Bilmon",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/tHotYLr5wg2JRzBSCvfztsP5f0yU7BnSESIQ6-72cTBSz2m5w-INghbLKH2XeLkIggkElVfeWV8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRio21U9UKJPb07e8T4sZ6A",
+            "authorChannelId": {
+              "value": "UCRio21U9UKJPb07e8T4sZ6A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 14,
+            "publishedAt": "2022-09-24T17:51:13Z",
+            "updatedAt": "2022-09-24T17:51:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "tayh0k66-rNyGBirZgAwOcDJRgM",
+      "id": "Ugzp9ikakpCrZ8OLDOJ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uikLS8OEy3Si2jqKu_VACjU54uo",
+          "id": "Ugzp9ikakpCrZ8OLDOJ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Aż się usmarkałam ze śmiechu 😂😂😂 jesteś zajebisty! 💪👏👏👏👍",
+            "textOriginal": "Aż się usmarkałam ze śmiechu 😂😂😂 jesteś zajebisty! 💪👏👏👏👍",
+            "authorDisplayName": "D K",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9T_tP9sJ3vWGE0Kt9Gb8ylcBd7B3IQTuiSO0cy=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChqC-PYDNOYkT4YYLDZC7Fw",
+            "authorChannelId": {
+              "value": "UChqC-PYDNOYkT4YYLDZC7Fw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 17,
+            "publishedAt": "2022-09-24T17:51:10Z",
+            "updatedAt": "2022-09-24T17:51:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "K67skSWV3hE0IDmA1z-5fO0u5vU",
+      "id": "Ugy9x--_mFauPXqcGsx4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MSzefjTOfW9mQCGhU_xUO5nvqW0",
+          "id": "Ugy9x--_mFauPXqcGsx4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Najfajniejszy skrót 👍",
+            "textOriginal": "Najfajniejszy skrót 👍",
+            "authorDisplayName": "Dzik Pol",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-V8StEqA1fylkMtuCQf77D57Vv6DBeoVX9w2FW=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxAJsjr5RvACWdpzopTswtQ",
+            "authorChannelId": {
+              "value": "UCxAJsjr5RvACWdpzopTswtQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2022-09-24T17:48:52Z",
+            "updatedAt": "2022-09-24T17:48:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DihvGdpH82l28q-SLFI3GJEbsK4",
+      "id": "UgwhkXabQOZf1OWNKc14AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "UcJbzwVGt2dadHu1L2K7GV3aQG8",
+          "id": "UgwhkXabQOZf1OWNKc14AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Dzień 2 Pytania o Mandalorianina",
+            "textOriginal": "Dzień 2 Pytania o Mandalorianina",
+            "authorDisplayName": "Rejzor 9033",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-EUZEyBV74oKfAozXw2EGPjOBPRx18q1qlkDcv=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCEpPl8pTQJgGobozq2Yan1g",
+            "authorChannelId": {
+              "value": "UCEpPl8pTQJgGobozq2Yan1g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T17:48:50Z",
+            "updatedAt": "2022-09-24T17:48:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sbY0qDIAqyFIBWPmsbyfkPjHjPM",
+      "id": "Ugwur4iHPLAtu2c85GJ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "46Rn7db_qTlCJTDhdMqjWHMpojE",
+          "id": "Ugwur4iHPLAtu2c85GJ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Zajebiste to nowe dodatki są",
+            "textOriginal": "Zajebiste to nowe dodatki są",
+            "authorDisplayName": "Żul Mietek",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/LbqfAMYfxgRnkXz62Q4bUl6uOwZnlevkkEpc2WTVpyG76azUG9Ib44vCe6E-dZPIIftcRubd=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6SEwRsKTWw1Tg4-0beK8fg",
+            "authorChannelId": {
+              "value": "UC6SEwRsKTWw1Tg4-0beK8fg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:48:10Z",
+            "updatedAt": "2022-09-24T17:48:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0GKdu-p_OLdicwOwOYOKuekdm3s",
+      "id": "UgxOE3tLSyHr1cq_LQd4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8fLD6c3ZstqvqEDAHmXF4MMBLM4",
+          "id": "UgxOE3tLSyHr1cq_LQd4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "popuszcza mu pierzyny 🤣🤣",
+            "textOriginal": "popuszcza mu pierzyny 🤣🤣",
+            "authorDisplayName": "SZTUNDI",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-yFZfTxaLpHM3KfnbNVErvH0nA0q_cTKeKr2mjJA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6tBJnjLlDwUgo3b-Jwx2Dw",
+            "authorChannelId": {
+              "value": "UC6tBJnjLlDwUgo3b-Jwx2Dw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T17:47:03Z",
+            "updatedAt": "2022-09-24T17:47:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0bGojKj4XF9xwjaSrU1yBTG6N6E",
+      "id": "UgzVn-__1GUB4ZBUDwd4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZzBAU8yM0rOHWZH__GmMj3DYXzU",
+          "id": "UgzVn-__1GUB4ZBUDwd4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "To teraz czas na szyderczy skrót &quot;Poznaj moich spartan&quot; 😎",
+            "textOriginal": "To teraz czas na szyderczy skrót \"Poznaj moich spartan\" 😎",
+            "authorDisplayName": "Ganok",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_h-xmmrNN2zGKc_sxzVJn7LnbKJa53oiMv9_-LRA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1fMgpoj4D6pnqUiDkXVmtA",
+            "authorChannelId": {
+              "value": "UC1fMgpoj4D6pnqUiDkXVmtA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 70,
+            "publishedAt": "2022-09-24T17:45:47Z",
+            "updatedAt": "2022-09-24T17:45:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "lEQVbglTgpTr6GUas1vGfDPlhbQ",
+            "id": "UgzVn-__1GUB4ZBUDwd4AaABAg.9gN-TvDTNwb9gOalQfbwly",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "Ten film już sam w sobie jest szyderczym skrótem 😆",
+              "textOriginal": "Ten film już sam w sobie jest szyderczym skrótem 😆",
+              "parentId": "UgzVn-__1GUB4ZBUDwd4AaABAg",
+              "authorDisplayName": "Jakub Czaplicki",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9qvw64yDi_N16O_X_saWnVJZEf6ihnTr7QPQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCeaBR_s9NV6ZMEJTlEJ7Cew",
+              "authorChannelId": {
+                "value": "UCeaBR_s9NV6ZMEJTlEJ7Cew"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 8,
+              "publishedAt": "2022-09-25T08:39:36Z",
+              "updatedAt": "2022-09-25T08:39:36Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VEyub83ldeRaGnn1LeRnsKxOqqU",
+      "id": "Ugwx63xBnMS1lqOVauZ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8CBxqj_8vy_oy75SeOCcr7F9bYE",
+          "id": "Ugwx63xBnMS1lqOVauZ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Dokończ serie o władcy pierścieni i zrób powrót króla",
+            "textOriginal": "Dokończ serie o władcy pierścieni i zrób powrót króla",
+            "authorDisplayName": "Mruczekyt",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/_wqpKOpEVZX6S55REWjvQS8YL3IVttaHge9WAX0skxuLt7Vs4QvePTQ7psEKpW_rwBy-J3-keA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC46n24nfjCnxVu3YEngjkdA",
+            "authorChannelId": {
+              "value": "UC46n24nfjCnxVu3YEngjkdA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2022-09-24T17:45:21Z",
+            "updatedAt": "2022-09-24T17:45:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "a2-lZpTqI0TXvxI5Zv4i7rqUq9o",
+      "id": "Ugx9l_zpvEzV2-iTH2d4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lr8G5BO3PUolUFqrBfcrMxu_UbE",
+          "id": "Ugx9l_zpvEzV2-iTH2d4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Może nagraj piątek 13 co ty na to",
+            "textOriginal": "Może nagraj piątek 13 co ty na to",
+            "authorDisplayName": "Bartosz Tomikowski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9RD7PLz9gYPovkm5Af-8hJXew8UTXIfV4wGw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXh9gRp0xfkn12MhyI2-elA",
+            "authorChannelId": {
+              "value": "UCXh9gRp0xfkn12MhyI2-elA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:42:00Z",
+            "updatedAt": "2022-09-24T17:42:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "U00ECm9Xd_ibyMnopGCPg5nLaTw",
+      "id": "UgxgY38AXAcurNRFEEt4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qUN6EaIlqEqyA8sLOQcCBOwjaKI",
+          "id": "UgxgY38AXAcurNRFEEt4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Czy mi się wydaje czy ty każdemu filmowi dajesz ocenę 7/10? Czy w tym ma być coś śmiesznego? A jeśli tak to co, bo nie czaje?",
+            "textOriginal": "Czy mi się wydaje czy ty każdemu filmowi dajesz ocenę 7/10? Czy w tym ma być coś śmiesznego? A jeśli tak to co, bo nie czaje?",
+            "authorDisplayName": "Cosiek Love",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8r7iDIYyxMYiHYIewEWibaQ2O8d-S6DoyGXulFoyaGs23JIKj1k_rnZrUl2xv6=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWdhJSvT44jbfsc-3PFI4Rw",
+            "authorChannelId": {
+              "value": "UCWdhJSvT44jbfsc-3PFI4Rw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T17:40:30Z",
+            "updatedAt": "2022-09-24T17:40:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CVf2yZrW--V8EjpB9UafWYWnDyg",
+      "id": "UgweJ8fwnhU8CJKMPM14AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Bu9kqAE9d1MpvCcy939eKhjhT2E",
+          "id": "UgweJ8fwnhU8CJKMPM14AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "dawajta 2 część",
+            "textOriginal": "dawajta 2 część",
+            "authorDisplayName": "Vernom",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-n0HfQBgV1OHL0dmN5OmRhHG7ajvTMmcKN3gY_=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCdju5TW8W7M0a9aVok_J5qg",
+            "authorChannelId": {
+              "value": "UCdju5TW8W7M0a9aVok_J5qg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T17:37:03Z",
+            "updatedAt": "2022-09-24T17:37:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "d9orT-MFuctGX-nHHxHtYl0YA14",
+      "id": "UgwytF1XREq_-KfyMOd4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "u83e8oopSSDWYhXKzeXQiJHdesA",
+          "id": "UgwytF1XREq_-KfyMOd4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Daje im motto zusu:\u003cbr\u003eNie dajcie im nic, ale zabierzcie im wszystko... Łukasz, rozwalasz system. Dawaj więcej filmów😂",
+            "textOriginal": "Daje im motto zusu:\nNie dajcie im nic, ale zabierzcie im wszystko... Łukasz, rozwalasz system. Dawaj więcej filmów😂",
+            "authorDisplayName": "Młody",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8HewTMYADJ-JOV-nFX98s4bSxZhAhbV6lOnn2_=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0Cq7oZhjYjsN3cGKslAPug",
+            "authorChannelId": {
+              "value": "UC0Cq7oZhjYjsN3cGKslAPug"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 231,
+            "publishedAt": "2022-09-24T17:36:57Z",
+            "updatedAt": "2022-09-24T18:09:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "sXGKvTZBs0ZxJjX5hCrUy36PK48",
+            "id": "UgwytF1XREq_-KfyMOd4AaABAg.9gMzTGw62xc9gRLCG2xPz7",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "Akurat dzisiaj byłem w zusie hahha",
+              "textOriginal": "Akurat dzisiaj byłem w zusie hahha",
+              "parentId": "UgwytF1XREq_-KfyMOd4AaABAg",
+              "authorDisplayName": "Vito Corleone",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_qfVqGjkr3ZFtqev6XK-xtm4RW2aw1Hgdj6xexwXcqrGV20BuE-f9fFw33tREi=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCdNdKoBCmmNV5hqx0wqrv_Q",
+              "authorChannelId": {
+                "value": "UCdNdKoBCmmNV5hqx0wqrv_Q"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2022-09-26T10:12:34Z",
+              "updatedAt": "2022-09-26T10:12:34Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "g8VTcEqelrYiXKbtvcAfHOy9a9g",
+            "id": "UgwytF1XREq_-KfyMOd4AaABAg.9gMzTGw62xc9gN6-sgbjwL",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "To mnie zniszczyło xD",
+              "textOriginal": "To mnie zniszczyło xD",
+              "parentId": "UgwytF1XREq_-KfyMOd4AaABAg",
+              "authorDisplayName": "FioX",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8ngF_4QsWPDFAdy3X6oJcUJnSSZcPHrM4NwMDtSbo1ZZ5r_zQ9uUh7E5MwF0lb=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCjZP2bOSFgD5fN7_230BGZg",
+              "authorChannelId": {
+                "value": "UCjZP2bOSFgD5fN7_230BGZg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 6,
+              "publishedAt": "2022-09-24T18:42:51Z",
+              "updatedAt": "2022-09-24T18:42:51Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-w-xx_JQCM_WbyR9Q6B6weCGKFY",
+      "id": "UgxHnJcdFKkmPARDH754AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EXjUdUaxwUtNAJrDa6ccg5OzYIs",
+          "id": "UgxHnJcdFKkmPARDH754AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Motto zusu mnie rozjebalo 😂",
+            "textOriginal": "Motto zusu mnie rozjebalo 😂",
+            "authorDisplayName": "Mariusz Kemp",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8J19iAqiJUF7ygu_4sRaQiL78OFxbnE8kSqVEf-A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQbQexjXQlSOpq2EubG0YoA",
+            "authorChannelId": {
+              "value": "UCQbQexjXQlSOpq2EubG0YoA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2022-09-24T17:34:47Z",
+            "updatedAt": "2022-09-24T17:34:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8bFBE2Cx9dJTqY4oXIPBG5H1Si4",
+      "id": "UgxSrd-AKVcwJ5zWd2J4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JWDL0p02pNAeRBRss3WfUgAn0aA",
+          "id": "UgxSrd-AKVcwJ5zWd2J4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Nie no jak zawsze zajebisty odc trzymaj tak",
+            "textOriginal": "Nie no jak zawsze zajebisty odc trzymaj tak",
+            "authorDisplayName": "Maks Pluciennik",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu82cCeOQdeRnejerzyn0GfsWFl7vMTxpSX6H1zPY7MUGvxItPalIX2DfD02BayV=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqDCqdGO3CqZjs9BTR1C-Vw",
+            "authorChannelId": {
+              "value": "UCqDCqdGO3CqZjs9BTR1C-Vw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T17:32:31Z",
+            "updatedAt": "2022-09-24T17:32:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "H_xHg8eqb6rzPLVEQWMSSX3Z7UI",
+      "id": "Ugy1YjIOGrmFNpoxFM14AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6gNF2CqMTDxxYR7h3M8-PUuYR2Y",
+          "id": "Ugy1YjIOGrmFNpoxFM14AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "No to teraz &quot;300 Początek Imperium&quot;",
+            "textOriginal": "No to teraz \"300 Początek Imperium\"",
+            "authorDisplayName": "Mariusz Cz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-NPizQ9ubofFMK8Cpljxf_c0oJ7Sm3CzE3WRDMTQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIxt_UYDJF-B4yBj7yqs2LA",
+            "authorChannelId": {
+              "value": "UCIxt_UYDJF-B4yBj7yqs2LA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T17:32:23Z",
+            "updatedAt": "2022-09-24T17:32:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "d5CjDLYxWZo_MQ4q1UOyXZjystQ",
+      "id": "UgzV8XS3zXFbgo1wE0p4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3ynHMWDfTsdHxVI8nstG5Q47ieU",
+          "id": "UgzV8XS3zXFbgo1wE0p4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Dawaj kolejną część!",
+            "textOriginal": "Dawaj kolejną część!",
+            "authorDisplayName": "Magdalena Malec",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-MgWURAePYuYqsrkKHoIFyb3X2RNeny7v5Xtb7=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCwUAIHRXrR0vLL9ZF_6MI4Q",
+            "authorChannelId": {
+              "value": "UCwUAIHRXrR0vLL9ZF_6MI4Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:32:03Z",
+            "updatedAt": "2022-09-24T17:32:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "bz0ArrPu6yF8H49sDTm-edtakMI",
+      "id": "UgziGFo4i4W0zsuPDW54AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rd3DyuN0IR7RFHcoCv7F7M8Lc2w",
+          "id": "UgziGFo4i4W0zsuPDW54AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Podoba mi się nowe prowadzenie odcinków",
+            "textOriginal": "Podoba mi się nowe prowadzenie odcinków",
+            "authorDisplayName": "Darek Rogut",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-m2ecFrcPAiA24-ex-otiZjRyS8pqZRNGzxQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBP42A6MpMQhQ7dCY4wFCSA",
+            "authorChannelId": {
+              "value": "UCBP42A6MpMQhQ7dCY4wFCSA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2022-09-24T17:29:22Z",
+            "updatedAt": "2022-09-24T17:29:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "zt9TNy6-AoWD6IvjkwlVdVA3lI4",
+      "id": "UgyQD3GPe4irAQGvkYx4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xUjhVb8RryiC1NidHTx5AgSScbU",
+          "id": "UgyQD3GPe4irAQGvkYx4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=90LN0_TV8Vk&amp;t=12m00s\"\u003e12:00\u003c/a\u003e miało taki wpływ, że Sparta przystąpiła do walki z Persją zamiast się jej poddać.",
+            "textOriginal": "12:00 miało taki wpływ, że Sparta przystąpiła do walki z Persją zamiast się jej poddać.",
+            "authorDisplayName": "Wierzbolas Fool who thought he killed Achilles",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8iZmZhylmbla2JFEiPNosbapL9efqKGEomhA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAb1u9mgyg3my3SQgtpwHlQ",
+            "authorChannelId": {
+              "value": "UCAb1u9mgyg3my3SQgtpwHlQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 11,
+            "publishedAt": "2022-09-24T17:27:03Z",
+            "updatedAt": "2022-09-24T17:27:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "x9OfHDD2goCqfROHOadmBpeyu34",
+      "id": "Ugz2LobFjWh-gyPM1Wh4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WKaHlT1RRKrvWuQjgXcuGS--CHA",
+          "id": "Ugz2LobFjWh-gyPM1Wh4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "MOTTO ZUSU - 🤣🤣🤣🤣😂😂😂😂😱😱😱😭😭😭😭😔😞😞😞",
+            "textOriginal": "MOTTO ZUSU - 🤣🤣🤣🤣😂😂😂😂😱😱😱😭😭😭😭😔😞😞😞",
+            "authorDisplayName": "Marcin Krzysztof Klupczyński",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-7XCpx-3Hn-5Jo6Ef5lqdDeTE17sYVsfGQPG5dkA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcJpL66bhxTzW8AoOIz1d8g",
+            "authorChannelId": {
+              "value": "UCcJpL66bhxTzW8AoOIz1d8g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:25:41Z",
+            "updatedAt": "2022-09-24T17:25:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RiSaCNTKsAoxx8AGOK4iJBravz8",
+      "id": "UgydciPssUuRnRvFuhd4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2mTN0il83P121aTfUSEj-qroUVU",
+          "id": "UgydciPssUuRnRvFuhd4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Kiedyś było &quot;z tarczą lub na tarczy&quot;, a teraz &quot;starczy czy nie starczy&quot;.",
+            "textOriginal": "Kiedyś było \"z tarczą lub na tarczy\", a teraz \"starczy czy nie starczy\".",
+            "authorDisplayName": "Kam P.",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu95Xi8fPXVPh68KHw8rD13dSlZhvTC6HwPQAg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7e0LcEHdChfMJ7RLLZNJRQ",
+            "authorChannelId": {
+              "value": "UC7e0LcEHdChfMJ7RLLZNJRQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2022-09-24T17:24:01Z",
+            "updatedAt": "2022-09-24T17:24:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "yh9ytDGFGcqXM6rPF2ItGAcHPJU",
+      "id": "Ugxq036iPmJIV67Nhtx4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ROlylE_hhV_a3PkGrXZCaO-cvz8",
+          "id": "Ugxq036iPmJIV67Nhtx4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "&quot;Co jest przecież odblokowałem już te postać&quot; XDDDD",
+            "textOriginal": "\"Co jest przecież odblokowałem już te postać\" XDDDD",
+            "authorDisplayName": "Mathew PL",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_3M9nU9AjDoI_cEF_fQqlmRcW9_YhKxKO6mw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCktDAHLleJ0jv9bBm2i1wmw",
+            "authorChannelId": {
+              "value": "UCktDAHLleJ0jv9bBm2i1wmw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T17:21:19Z",
+            "updatedAt": "2022-09-24T17:21:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SB4m8Mc2WGbUCbbQftXG7VKW84I",
+      "id": "UgzJXo2xN2ylztJP8UZ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KRWZksuF9OTw40EY3BGPtK2tYVQ",
+          "id": "UgzJXo2xN2ylztJP8UZ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Genialne😂",
+            "textOriginal": "Genialne😂",
+            "authorDisplayName": "Kamil Broda",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9euMvab7v_mnaOVixGz6ctyc4snq9JEBc1R_YDsQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNMA2vQjcajdFJZoP1BYUOw",
+            "authorChannelId": {
+              "value": "UCNMA2vQjcajdFJZoP1BYUOw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2022-09-24T17:20:58Z",
+            "updatedAt": "2022-09-24T17:20:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PFulPBEi_fwJpPapVmGzp6g7JpQ",
+      "id": "Ugy0SB6NwgJDRaZSRxV4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "L6H1OrlZzHDZ89VkRQbEa7dlCRU",
+          "id": "Ugy0SB6NwgJDRaZSRxV4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "dałem suba i znalazłem w lodówce sześciopak żubra polecam",
+            "textOriginal": "dałem suba i znalazłem w lodówce sześciopak żubra polecam",
+            "authorDisplayName": "Mati",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu99YpItKL-VFniMAloSY66Y6D-TDOkM-xFXe7ML2g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnIyqh5581-DDlhI_aJwPXg",
+            "authorChannelId": {
+              "value": "UCnIyqh5581-DDlhI_aJwPXg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:20:17Z",
+            "updatedAt": "2022-09-24T17:20:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "2VAg--p9HE3pbglTEhT5TAhMDU8",
+      "id": "UgzhYBug4cW4j2P24HV4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Q4QtRBKcU-Xxroxb5mFWcnoFW5U",
+          "id": "UgzhYBug4cW4j2P24HV4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "to teraz &quot; poznaj moich spartan&quot;",
+            "textOriginal": "to teraz \" poznaj moich spartan\"",
+            "authorDisplayName": "Sebastian Nadolski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-9F-JKFXzIdgfNjACRpAS1KxRYWbk-nnQ0tgYEJg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCARP7Ze6I86cr-0fMdO7chw",
+            "authorChannelId": {
+              "value": "UCARP7Ze6I86cr-0fMdO7chw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:19:09Z",
+            "updatedAt": "2022-09-24T17:19:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QxPEhVyGcmYcjYIEzWt1Vxj3F6E",
+      "id": "Ugy1lcjb6oQJ1RPr-kl4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "F8usW2yeyClZli0moaMEgqtEEFQ",
+          "id": "Ugy1lcjb6oQJ1RPr-kl4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Stosunek seksualny z kobietO. Nie wiem czy to go przekonalo :) po co robic baba jak można reka :)",
+            "textOriginal": "Stosunek seksualny z kobietO. Nie wiem czy to go przekonalo :) po co robic baba jak można reka :)",
+            "authorDisplayName": "Daniel Daniel",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_pJ9CrODvIS5akdMGylnlIbuSGqWJ6PdNOPg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIrLfAlEu6PhSHA8yIeAnYg",
+            "authorChannelId": {
+              "value": "UCIrLfAlEu6PhSHA8yIeAnYg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T17:17:39Z",
+            "updatedAt": "2022-09-24T17:17:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "3qnM3DaI7YaPLgXlpr1c0VftfNE",
+      "id": "UgwIby0Cqrh86PdfzNx4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Tlh0JFa707UxQ-yhfOLc0qa5wCA",
+          "id": "UgwIby0Cqrh86PdfzNx4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Dobra żadnych Pacek młotów itp nie ma to nie ma łapki. 🤣🤣",
+            "textOriginal": "Dobra żadnych Pacek młotów itp nie ma to nie ma łapki. 🤣🤣",
+            "authorDisplayName": "StalkerDuch",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_hRDm-uBvqM4WBxZMnM85UL0CUHr5LcLodLQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYgvRRnExiiALUovSZzo31A",
+            "authorChannelId": {
+              "value": "UCYgvRRnExiiALUovSZzo31A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T17:11:14Z",
+            "updatedAt": "2022-09-24T17:11:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "OTEOnx_I6szW7B17-h1yUNa7JWk",
+      "id": "Ugz6R-0bHNFmK9Urr-R4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IfLHFNFKpkVHZngX5SoyW4otpVA",
+          "id": "Ugz6R-0bHNFmK9Urr-R4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=90LN0_TV8Vk&amp;t=4m30s\"\u003e4:30\u003c/a\u003e &quot;gorące wrota&quot; po co brać kobiety do burdelu? Przecież będą na miejscu :D",
+            "textOriginal": "4:30 \"gorące wrota\" po co brać kobiety do burdelu? Przecież będą na miejscu :D",
+            "authorDisplayName": "Mordka009",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_CutI_2Wzpr2Ugzx7aVgLmPLOqCAkMlVhtWr5TOg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjl8D0_Zh1UUrRJAXlej2HA",
+            "authorChannelId": {
+              "value": "UCjl8D0_Zh1UUrRJAXlej2HA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T17:10:25Z",
+            "updatedAt": "2022-09-24T17:10:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9KdFZ9zTNRMnYuSkkHlONE-NhNw",
+      "id": "UgxfQKqnGIB8_9JYi0B4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_ahF5Z7sq4QnSNqEFQFzGt3NPuA",
+          "id": "UgxfQKqnGIB8_9JYi0B4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Jesteś mistrzem 😁😂",
+            "textOriginal": "Jesteś mistrzem 😁😂",
+            "authorDisplayName": "Henryk J.",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu8KElSWl5THK5tpKt87axjRFrF_4KKzkDj-uw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMOHVIRWgnqci_JSoDNyZ7A",
+            "authorChannelId": {
+              "value": "UCMOHVIRWgnqci_JSoDNyZ7A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T17:10:24Z",
+            "updatedAt": "2022-09-24T17:10:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kO0uZrQX-PgW0lLIcgieSKe9WZs",
+      "id": "Ugz2gagfFxbIzeLBeCF4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Q05oLrKlV1ueFoHUHNMwvJFF354",
+          "id": "Ugz2gagfFxbIzeLBeCF4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "A czy sutów nie powinno być 602? Gollum też był...",
+            "textOriginal": "A czy sutów nie powinno być 602? Gollum też był...",
+            "authorDisplayName": "Słuchacz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/IQuKfh1ixUE9OMcFusoTiqVEDTk6HZo2aJgIFvDN98z2R6IosnqSJxR6YoVcJJpUMX6qutOG1w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcU5qyrb5JQB5AD_n6cfVFg",
+            "authorChannelId": {
+              "value": "UCcU5qyrb5JQB5AD_n6cfVFg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T17:09:11Z",
+            "updatedAt": "2022-09-24T17:09:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vEXXnK3WX4uPP8wtiZR-BY3UX6I",
+      "id": "Ugw9B18mJyK7WJzBW6x4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "IWlgf-3alT_JI7XCfqe1_f_nNvU",
+          "id": "Ugw9B18mJyK7WJzBW6x4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Żytniostrada 😁",
+            "textOriginal": "Żytniostrada 😁",
+            "authorDisplayName": "SlavoK",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_fxMOf0sZvwIgQ7gxRGNg-dsnfF6KgDozprxvh5DCJBZeZXqblJeYzFoQ8myTX=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUOU1LZm6dJStYbvc0SWdXQ",
+            "authorChannelId": {
+              "value": "UCUOU1LZm6dJStYbvc0SWdXQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2022-09-24T17:07:29Z",
+            "updatedAt": "2022-09-24T17:07:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QIIkN_FGsvAPfUFoKuDdNhB72Ec",
+      "id": "UgzI6nCqmrVVExBoeil4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "K1LYTx9udtBzqjrG5MrbCdvyPtk",
+          "id": "UgzI6nCqmrVVExBoeil4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Sklep z birzuterią XDDDD",
+            "textOriginal": "Sklep z birzuterią XDDDD",
+            "authorDisplayName": "ocean man",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_pdwst-ZGgFHw0SRa7uNXXYd6EVXff3_AcJ3KkQAc-38onqakmcraQJPXQU3ei=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3ZZagYeshCSx1nC59Mtd9Q",
+            "authorChannelId": {
+              "value": "UC3ZZagYeshCSx1nC59Mtd9Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T17:03:13Z",
+            "updatedAt": "2022-09-24T17:03:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "4cbkhoCmFKxHc5qMsv48FEYd62U",
+      "id": "UgxqCfr-qVOCkQqbTAZ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "irKrrgdGb88b7FihbC3UapI1WF8",
+          "id": "UgxqCfr-qVOCkQqbTAZ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Łukasz Czemu cię ciągle interesowało tylko to że byli w samych gaciach? Myślałem że tylko ja tak mam...",
+            "textOriginal": "Łukasz Czemu cię ciągle interesowało tylko to że byli w samych gaciach? Myślałem że tylko ja tak mam...",
+            "authorDisplayName": "Stormtrooper",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/lDjvYqHXVXHxfqpk8GtvJlXJTJa7DSf1hxl0xKM3zhPTsfPl3oTMGAgIdQzkj7AnGSF2kyrDVw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCwFAXsjqO_yiJ4KNAJZpsnw",
+            "authorChannelId": {
+              "value": "UCwFAXsjqO_yiJ4KNAJZpsnw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T16:59:06Z",
+            "updatedAt": "2022-09-24T16:59:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cQBE5hkKes-84I5ybTfKpH6N5hU",
+      "id": "UgwFj2pmcRqpxo0FVcB4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "OhNfKVpH5AhAppvh2x1F9WuU_4E",
+          "id": "UgwFj2pmcRqpxo0FVcB4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Dziwne że Wojciech Olszański nie wystąpił w tym filmie bo idealnie by się nadawał jako spartański żołnierz",
+            "textOriginal": "Dziwne że Wojciech Olszański nie wystąpił w tym filmie bo idealnie by się nadawał jako spartański żołnierz",
+            "authorDisplayName": "Oskar ZzZ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9wU1y6TXaaE6pMCGuM4xl65K8PEeJ2Qj-ZMw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuy9kX0x5dvnBY3GT6Tnz9w",
+            "authorChannelId": {
+              "value": "UCuy9kX0x5dvnBY3GT6Tnz9w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T16:57:34Z",
+            "updatedAt": "2022-09-24T16:57:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1aF4jlZyt0USjM1XQki8_cw9yQo",
+      "id": "UgwxoUlvLLqvNHNUnTB4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0l0rSp8gewHPSPR2fGXw3aqBYqU",
+          "id": "UgwxoUlvLLqvNHNUnTB4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "YouTub powinien być z Ciebie dumny😉☺️",
+            "textOriginal": "YouTub powinien być z Ciebie dumny😉☺️",
+            "authorDisplayName": "Wioleta Tramowska",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Xpq4UCFrvI4g4rP1behSIpVl4McEUmnHjnBEjAiX9hiM5gDCX7PhQeJKQ8T_XRzsi5wdnQLLLw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKZh_Z9RRoQPeANsAufcajg",
+            "authorChannelId": {
+              "value": "UCKZh_Z9RRoQPeANsAufcajg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T16:57:29Z",
+            "updatedAt": "2022-09-24T16:57:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "AWuqvtnsOsDZR1F4bqkvKtEl5Aw",
+      "id": "UgyW2jUEbpJhBEKAOrJ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9c5WvomGA_lmxD_IMXWmsLvzxvg",
+          "id": "UgyW2jUEbpJhBEKAOrJ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "👍👍👍👍",
+            "textOriginal": "👍👍👍👍",
+            "authorDisplayName": "Alcca News",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu94sheiKaQn34uYDPGl9BwttDBYxT5-R0Af2Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCwHDXbWVcERrZM8fGnZC7iQ",
+            "authorChannelId": {
+              "value": "UCwHDXbWVcERrZM8fGnZC7iQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T16:55:51Z",
+            "updatedAt": "2022-09-24T16:55:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aTg97UPGDVrg4oE4gwsGXsCxBD8",
+      "id": "Ugy-CQU4OERrAipU5kp4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tT0_mFvxTqdkzWlVueH-gHh1r2g",
+          "id": "Ugy-CQU4OERrAipU5kp4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "To co teraz? ,,Poznaj moich Spartan &quot;?",
+            "textOriginal": "To co teraz? ,,Poznaj moich Spartan \"?",
+            "authorDisplayName": "Słuchacz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/IQuKfh1ixUE9OMcFusoTiqVEDTk6HZo2aJgIFvDN98z2R6IosnqSJxR6YoVcJJpUMX6qutOG1w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcU5qyrb5JQB5AD_n6cfVFg",
+            "authorChannelId": {
+              "value": "UCcU5qyrb5JQB5AD_n6cfVFg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T16:55:12Z",
+            "updatedAt": "2022-09-24T16:55:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "QNRRHG5KTv3d69NCNPFLcigxgNc",
+            "id": "Ugy-CQU4OERrAipU5kp4AaABAg.9gMugX9E9Ro9gMvDgG94Do",
+            "snippet": {
+              "videoId": "90LN0_TV8Vk",
+              "textDisplay": "Ja stawiam na 300 początek imperium",
+              "textOriginal": "Ja stawiam na 300 początek imperium",
+              "parentId": "Ugy-CQU4OERrAipU5kp4AaABAg",
+              "authorDisplayName": "Mikołaj Mikołajczak",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-s3T_830kdFkUF73CfoigN48fnVx-N0YR9ceqPlCSb4ULFkHOO8z0tRkqvA-BH=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCOp88DE6RQL672O8OpV8NyQ",
+              "authorChannelId": {
+                "value": "UCOp88DE6RQL672O8OpV8NyQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2022-09-24T16:59:52Z",
+              "updatedAt": "2022-09-24T16:59:52Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Lx8Qv0xlK6S5_ouyc4TPhILEb-8",
+      "id": "Ugxbe108Ky6qvf1qERZ4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZVUBJBiakS6-ZcjWKMfM-RudoZo",
+          "id": "Ugxbe108Ky6qvf1qERZ4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Panie Cegiełko już kupiłem popcorn na spin off tego filmu o Atenach tam to dopiero się dzieje. Pozdrawiam",
+            "textOriginal": "Panie Cegiełko już kupiłem popcorn na spin off tego filmu o Atenach tam to dopiero się dzieje. Pozdrawiam",
+            "authorDisplayName": "Dawid Łapa",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu9Iria2kPoccdNRtwhifJ8wZB1EOVJbm22i3A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1UKfXMyyhQJWrmk4t-RaDw",
+            "authorChannelId": {
+              "value": "UC1UKfXMyyhQJWrmk4t-RaDw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T16:53:58Z",
+            "updatedAt": "2022-09-24T16:53:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rOtSXnPBL9Paqe3cSbHtI2uwApU",
+      "id": "UgyhE1VI0DE0pLEyJQ54AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Idgbdudxkkt19zCrk4vGzIzNQuo",
+          "id": "UgyhE1VI0DE0pLEyJQ54AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Ten sześciopak  bez ćwiczeń to działa jak sie już subskrypcje dało wcześniej ?",
+            "textOriginal": "Ten sześciopak  bez ćwiczeń to działa jak sie już subskrypcje dało wcześniej ?",
+            "authorDisplayName": "Michał Dolinowski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu88araOKXbFq0di6PQcXOcknZSa1JftOsP2Yw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3bcx3WI-zDPbzHuLejZ85Q",
+            "authorChannelId": {
+              "value": "UC3bcx3WI-zDPbzHuLejZ85Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T16:53:12Z",
+            "updatedAt": "2022-09-24T16:53:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rnCCeenKHfXyycIlsRfMlkG65w0",
+      "id": "Ugw7esF3wuSKVaHYv2d4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "B1bMLG5jgVY6GvuKe972NY45mZI",
+          "id": "Ugw7esF3wuSKVaHYv2d4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Kiedy 3 czesc władcy pierscieni?",
+            "textOriginal": "Kiedy 3 czesc władcy pierscieni?",
+            "authorDisplayName": "MrocznyFeniks",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/YOTMOZSN-BLhFTq1XMRXEwjvhRJCv4W0Cp3KxlGbbNOlmFh8xR-pkwipKgLahbXi5vE7vSErrg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCZY_iCbHYcEHwX-mqrONKMA",
+            "authorChannelId": {
+              "value": "UCZY_iCbHYcEHwX-mqrONKMA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T16:52:15Z",
+            "updatedAt": "2022-09-24T16:52:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WluVmzWcPfJ-bcMaQUSGUY9-P9w",
+      "id": "UgxW9Oy61-RcJxU5PSB4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZdR3AwQpXzmoX9uNNc82M4hFwE4",
+          "id": "UgxW9Oy61-RcJxU5PSB4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "dawaj zrób szyderczy skrót &quot;poznaj moich spartan&quot;",
+            "textOriginal": "dawaj zrób szyderczy skrót \"poznaj moich spartan\"",
+            "authorDisplayName": "pieczarapolska",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/9dRGrFEUM8uHmNOQ12gEuV8kND4Ey2hL51getY-uLf1yd3oyzh9Ix4b-gIcbfONS36UZV5SU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4ticrcF98x140323H8U5cw",
+            "authorChannelId": {
+              "value": "UC4ticrcF98x140323H8U5cw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2022-09-24T16:52:14Z",
+            "updatedAt": "2022-09-24T16:52:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gn9QKDBeF0M4NoROqCkA3a53xKw",
+      "id": "UgyK3jhufQhK3sHD0KB4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "l0P-MDmjHVlwR4FhAg-2bbIfxyE",
+          "id": "UgyK3jhufQhK3sHD0KB4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Motto ZUSu..... popłakałem się.",
+            "textOriginal": "Motto ZUSu..... popłakałem się.",
+            "authorDisplayName": "MrQuashu",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu-WgIAl9XlDjLN0ZtIhvzcIpj0qkv8y4eVWeG7P=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9t-r9SBBctovLstDUV3pXw",
+            "authorChannelId": {
+              "value": "UC9t-r9SBBctovLstDUV3pXw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2022-09-24T16:52:13Z",
+            "updatedAt": "2022-09-24T16:52:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Xyfjif5xYA6JCs0oG4NPzNWfXWU",
+      "id": "UgwEY1LoIkfvcINTcmB4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2JlcspLk-t88TdEU1hTfKSYCBS0",
+          "id": "UgwEY1LoIkfvcINTcmB4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "&quot;Wojowniczy żółw ninja&quot; 😆😆😆",
+            "textOriginal": "\"Wojowniczy żółw ninja\" 😆😆😆",
+            "authorDisplayName": "Krzysztof kuźniewski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu_Lp6BXMaVmYlhSsbZN5QW8fbR69DXWY5UGmQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChLnQag4H1pNOIAEDgxILjg",
+            "authorChannelId": {
+              "value": "UChLnQag4H1pNOIAEDgxILjg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2022-09-24T16:51:46Z",
+            "updatedAt": "2022-09-24T16:51:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "d0cRy7o4LU70vncs8ZAYk4y5zmQ",
+      "id": "UgwLw1ZJaOZ2L5cw20J4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "VV7rgFRSHbUScGP-21zt22oNZVE",
+          "id": "UgwLw1ZJaOZ2L5cw20J4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Powinieneś mieć 1m subskrybcji a nie 200k ;/jesteś najlepszym youtuberem",
+            "textOriginal": "Powinieneś mieć 1m subskrybcji a nie 200k ;/jesteś najlepszym youtuberem",
+            "authorDisplayName": "Nexi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/vcE2UQuQ8GdyWo-7OxoD5rM-De2cWGAeh5cnNf1S6IZg4GMqBcc8xldZ32gXz5Cu99Xcdt6r4w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHevgCXjdm-k1_7iQacda2Q",
+            "authorChannelId": {
+              "value": "UCHevgCXjdm-k1_7iQacda2Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2022-09-24T16:50:51Z",
+            "updatedAt": "2022-09-24T16:50:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Fo4o9xe3-brm0U7m8znr8HgwIj8",
+      "id": "UgwofydxO-eS4dK9Nwd4AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "x-CJYWGwA0AEEGaq5u7XLu5idmo",
+          "id": "UgwofydxO-eS4dK9Nwd4AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "kolejny Zajebisty szyderczy skrót czekam na więcej",
+            "textOriginal": "kolejny Zajebisty szyderczy skrót czekam na więcej",
+            "authorDisplayName": "Weronika Stelmach",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AMLnZu96qfm4S8rawrnjyFM9eX_a6Qa_8oaK2YFkwhS3-Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCMuuB9anA-qMkbCisYSUew",
+            "authorChannelId": {
+              "value": "UCCMuuB9anA-qMkbCisYSUew"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2022-09-24T16:49:03Z",
+            "updatedAt": "2022-09-24T16:49:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "MVr5UkbGEua1xum4uYBVyGaFSMM",
+      "id": "Ugz0EdDRbLhA-Pe2U114AaABAg",
+      "snippet": {
+        "videoId": "90LN0_TV8Vk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9-izvH34SH6ei2lGiFrKSL0HA8M",
+          "id": "Ugz0EdDRbLhA-Pe2U114AaABAg",
+          "snippet": {
+            "videoId": "90LN0_TV8Vk",
+            "textDisplay": "Właśnie gram w asasyn skred odysay wi3nc ciekawie",
+            "textOriginal": "Właśnie gram w asasyn skred odysay wi3nc ciekawie",
+            "authorDisplayName": "Elofik YT gaming",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/0IvsjjVocUDIumBnJFHvRngl6sD1ipeiHkfgOz7PBYgMXmHJgpa8Q-u764iAa2uBbVZRHO2v=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCy9uZ6_aa_kxwD1BN2JdM3g",
+            "authorChannelId": {
+              "value": "UCy9uZ6_aa_kxwD1BN2JdM3g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2022-09-24T16:49:01Z",
+            "updatedAt": "2022-09-24T16:49:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+---
+title: "Procesy Hawkesa"
+author: "Michał Hetmańczuk"
+output: html_notebook
+---
+ 
+```{r}
+library(evently)
+library(repr)
+```
+## Zadanie 1
+Za pośrednictwem API YouTube pobrano komentarze dla dwóch filmów Łukasza Cegiełki z serii "Szyderczy Skrót". Publikacja filmu inicuje kaskadę wydarzeń - publikacji komentarzy pod filmikiem. Liczba komentarzy jest w oczywisty sposób skorelowana z popularnością filmu (aby napisać komentarz - należy ten film wyświetlić), komentarze można więc traktować jako metrykę świadczącą o popularności filmu - a więc im większa ich liczba tym większa szansa, iż film zostanie częściej zarekomendowany przez algorytmy YouTube'a, co z kolei sprawi, iż przybędzie mu widzów (a więc komentarzy), może więc mówić o samo-ekscytacji. Niestety pominięto wartość która odzwerciedlałaby siłę wpływu danego komentarza (hipotetycznie mogłaby być to liczba subsrybentów autora komentarza, jednak zdobycie takich danych byłoby dość czasochłonne w stosunku do realizacji głównych tematów niniejszej listy zadań, co więcej większość użytkowników ma tę liczbę bliską 0), wobec tego przyjęto wartość magnitude jako 1, oraz wybrano model typu "unmarked".
+```{r}
+dataset <- read.csv("data/cegielka_comments.csv")
+```
+```{r}
+hist(dataset$timestamp)
+```
+```{r}
+levels(dataset$videoId)
+```
+
+
+```{r}
+hist(dataset[dataset$videoId == '90LN0_TV8Vk',]$timestamp)
+```
+```{r}
+hist(dataset[dataset$videoId == 'DtxWm-IYqEU',]$timestamp)
+```
+Zgodnie z intuicją, najwięcej komentarzy pojawiło się krótko po publikacji filmu, a następnie następił spadek, który intuicyjnie można przybliżyć eksponentą. 
+
+## Zadanie 2
+Zbiór danych rozbito na dwa podzbiory, odpowiednio dla każdego z filmów, wyodrębniając tym samym dwie kaskady. Wybrano modelu typu unmarked, ze względu na brak zdefiniowanej miary siły wpływu zdarzeń z kernelem EXP.
+```{r}
+series1 = dataset[dataset$videoId == '90LN0_TV8Vk',]
+series1$magnitude = as.integer(1)
+series1$time = series1$timestamp - min(series1$timestamp)
+series1 = series1[c('magnitude', 'time')]
+series1 = series1[order(series1$time),]
+row.names(series1) <- NULL
+
+series2 = dataset[dataset$videoId == 'DtxWm-IYqEU',]
+series2$magnitude = as.integer(1)
+series2$time = series2$timestamp - min(series2$timestamp)
+series2 = series2[c('magnitude', 'time')]
+series2 = series2[order(series2$time),]
+row.names(series2) <- NULL
+```
+```{r}
+train_series.1 = series1[1:350,]
+fitted_model.1 <- fit_series(train_series.1, model_type = 'EXP', observation_time = max(train_series.1$time), cores=10)
+fitted_model.1
+```
+
+```{r}
+train_series.2 = series2[1:350,]
+fitted_model.2 <- fit_series(train_series.2, model_type = 'EXP', observation_time = max(train_series.2$time), cores=10)
+fitted_model.2
+```
+
+Niestety wartość Log Likelihood sugeruje, iż w obu wypadkach model nie dopasował się dość dobrze.
+
+## Zadanie 3/4
+Podjęto próbę predykcji końcowego rozmiaru kaskad i porównania dynamiki kaskad.
+
+```{r}
+get_branching_factor(fitted_model.1)
+```
+```{r}
+predict_final_popularity(fitted_model.1)
+```
+```{r}
+get_branching_factor(fitted_model.2)
+```
+```{r}
+predict_final_popularity(fitted_model.2)
+```
+Predykcja zdecydowanie przewyższa rzeczywistą wartość, jednak warto zwrócić uwagę, iż faktycznie komentarze pod filmikiem, będą się pojawiały tak długo jak długo ten film jest dostępny, a po prostu z bardzo niską intensywnością (ze względu ekspotencjalny kształt histogramu wydarzeń w czasie).
+
+```{r}
+options(repr.plot.width=14, repr.plot.height=7, repr.plot.res = 200)
+plot_event_series(fitted_model.1)
+```
+
+```{r}
+options(repr.plot.width=14, repr.plot.height=7, repr.plot.res = 200)
+plot_event_series(fitted_model.2)
+```
+Dynamika procesu jest podobna w obu przypadkach - co jest dość oczywiste, gdyż filmy pochodzą od tego samego autora oraz zostały opublikowane w podobnym czasie. Warto zwrócić uwagę, iż ze względu na tak zbliżoną charkterystkę filmów, parametry kernela również powinny być podobne - wartość K jest identyczna, natomiast wartość theta - zbliżona (chociaż, nie tak bardzo jak sugeruje intuicja).
+
+Ostatecznym wnioskiem może być to, iż ze względu na swoją ekspotencjalną charakterystykę oraz zależność popularności filmu od innych czynników niż sama liczba komentarzy (co wpływa na to, iż można podważyć występowanie samo-ekscytacji), proces Hawkesa, nie jest najlepszym wyborem w przypadku predykcji komentarzy pod filmiem na YouTube.
+
+
