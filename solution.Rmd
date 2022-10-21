@@ -31,6 +31,12 @@ Zgodnie z intuicją, najwięcej komentarzy pojawiło się krótko po publikacji 
 
 ## Zadanie 2
 Zbiór danych rozbito na dwa podzbiory, odpowiednio dla każdego z filmów, wyodrębniając tym samym dwie kaskady. Wybrano modelu typu unmarked, ze względu na brak zdefiniowanej miary siły wpływu zdarzeń z kernelem EXP.
+
+### UWAGA!
+Komentarz dopisany po zajęciach laboratoryjnych:
+
+W przypadku podania do instancji modelu całości danych (a nie tylko części treningowej), a następnie ustawienie observation_time mniejszego niż długość strumienia zdarzeń, sprawia, iż model zwraca końocwą predykcję równą (dokładnie) faktycznej liczbie zdarzeń w zbiorze.
+
 ```{r}
 series1 = dataset[dataset$videoId == '90LN0_TV8Vk',]
 series1$magnitude = as.integer(1)
@@ -88,6 +94,6 @@ plot_event_series(fitted_model.2)
 ```
 Dynamika procesu jest podobna w obu przypadkach - co jest dość oczywiste, gdyż filmy pochodzą od tego samego autora oraz zostały opublikowane w podobnym czasie. Warto zwrócić uwagę, iż ze względu na tak zbliżoną charkterystkę filmów, parametry kernela również powinny być podobne - wartość K jest identyczna, natomiast wartość theta - zbliżona (chociaż, nie tak bardzo jak sugeruje intuicja).
 
-Ostatecznym wnioskiem może być to, iż ze względu na swoją ekspotencjalną charakterystykę oraz zależność popularności filmu od innych czynników niż sama liczba komentarzy (co wpływa na to, iż można podważyć występowanie samo-ekscytacji), proces Hawkesa, nie jest najlepszym wyborem w przypadku predykcji komentarzy pod filmiem na YouTube.
+Ostatecznym wnioskiem może być to, iż ze względu na swoją ekspotencjalną charakterystykę oraz zależność popularności filmu od innych czynników niż sama liczba komentarzy (co wpływa na to, iż można podważyć występowanie samo-ekscytacji), proces Hawkesa, nie jest najlepszym wyborem w przypadku predykcji komentarzy pod filmiem na YouTube. Edit (po zajęciach).: Przyczną może być również brak wartości "magnitude" a tym samym zastosowanie zwykłego kernela EXP (zamiast mEXP), warto jednak ponownie podkreślić, iż dla danego zbioru danych, trudno wskazać taką wartość.
 
 
